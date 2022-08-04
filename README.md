@@ -36,7 +36,7 @@ Prof. Dr. Vinícius R. P. Borges
 
    4.3. Resolução de problema: [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
 
-   4.4. Resolução de problema: [Beecrowd 1573 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
+   4.4. Resolução de problema: [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
    
 5. Strings
  
