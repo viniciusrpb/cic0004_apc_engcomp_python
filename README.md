@@ -22,6 +22,9 @@ Prof. Dr. Vinícius R. P. Borges
    
    2.2. Resolução de problema: [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
+   2.3. Resolução de problema: [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
+   
+   
 3. Estruturas Condicionais
 
    3.1. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
