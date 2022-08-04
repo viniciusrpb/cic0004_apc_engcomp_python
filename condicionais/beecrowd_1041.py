@@ -1,10 +1,17 @@
-''' recursao '''
+x,y = (float(elem) for elem in input().split())
 
-def f(n):
-    # caso base: parada da recursao
-    if n >= 0:
-        f(n-1)
-        print(n)
-
-f(6)
+if x == 0 and y == 0:
+    print('Origem')
+elif x != 0 and y == 0:
+    print('Eixo X')
+elif x == 0 and y != 0:
+    print('Eixo Y')
+elif x > 0 and y > 0:
+    print('Q1')
+elif x > 0 and y < 0:
+    print('Q4')
+elif x < 0 and y > 0:
+    print('Q2')
+else:
+    print('Q3')
 
