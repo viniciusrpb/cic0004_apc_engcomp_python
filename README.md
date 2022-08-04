@@ -24,7 +24,9 @@ Prof. Dr. Vinícius R. P. Borges
    
 3. Estruturas Condicionais
 
-   3.1. Resolução de problema: [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](recursividade/beecrowd_1041.py)]
+   3.1. Resolução de problema: [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
+
+   3.2. Resolução de problema: [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
 
 4. Iteração
 
@@ -33,6 +35,8 @@ Prof. Dr. Vinícius R. P. Borges
    4.2. Resolução de problema: [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
 
    4.3. Resolução de problema: [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
+
+   4.4. Resolução de problema: [Beecrowd 1573 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
    
 5. Strings
  
