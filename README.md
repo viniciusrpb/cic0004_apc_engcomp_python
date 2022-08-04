@@ -14,9 +14,11 @@ Prof. Dr. Vinícius R. P. Borges
   
    1.1. Resolução de problema: [Beecrowd 1020 - Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) [[Solução](var_exp_inst/beecrowd_1020.py)]
 
-   1.2. Resolução de problema: [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](var_exp_inst/beecrowd_2416.py)]
+   1.2. Resolução de problema: [Beecrowd 2413 - Busca na Internet](https://www.beecrowd.com.br/judge/en/problems/view/2413) [[Solução](var_exp_inst/beecrowd_2413.py)]
    
-   1.3. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
+   1.3. Resolução de problema: [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](var_exp_inst/beecrowd_2416.py)]
+   
+   1.4. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
    
 2. Funções e Recursividade
   
@@ -43,6 +45,8 @@ Prof. Dr. Vinícius R. P. Borges
    4.3. Resolução de problema: [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
 
    4.4. Resolução de problema: [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
+   
+   4.5. Resolução de problema: [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
    
 5. Strings
  
