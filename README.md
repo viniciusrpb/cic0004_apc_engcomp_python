@@ -18,8 +18,9 @@ Prof. Dr. Vinícius R. P. Borges
    
 2. Funções e Recursividade
   
-   2.1. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](funcoes/beecrowd_2786.py)]
-   3.2. Resolução de problema: [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](recursividade/beecrowd_2166.py)]
+   2.1. Resolução de problema: [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](funcoes_recursividade/beecrowd_2786.py)]
+   
+   2.2. Resolução de problema: [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
 3. Estruturas Condicionais
 
