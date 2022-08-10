@@ -55,14 +55,14 @@ Prof. Dr. Vinícius R. P. Borges
    
 6. Listas
  
-   6.1. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](strings/beecrowd_2807.py)]
+   6.1. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
    
-   6.2. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](strings/beecrowd_2345.py)]
+   6.2. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)]
    
-   6.3. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](exercicios/Cap9/beecrowd_1259.py)]
+   6.3. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
    
-   6.4. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](exercicios/Cap9/beecrowd_1375.py)]
+   6.4. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
    
    
-   <!-- 5.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](exercicios/Cap9/beecrowd_1383.py)] -->
+   <!-- 5.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)] -->
 
