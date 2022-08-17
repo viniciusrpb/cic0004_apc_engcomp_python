@@ -53,16 +53,22 @@ Prof. Dr. Vinícius R. P. Borges
    5.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)]
    
    
-6. Listas
+6. Listas Homogêneas
  
    6.1. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
    
-   6.2. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)]
+   6.2. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)] *dá para fazer sem listas*
    
    6.3. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
    
    6.4. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
-   
-   
-   <!-- 5.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)] -->
+
+
+7. Listas Heterogêneas
+
+   7.1. [Beecrowd 1181 - Line in Array](https://www.beecrowd.com.br/judge/en/problems/view/1181) [[Solução](listas/beecrowd_1181.py)]
+
+   7.2. [Beecrowd 2552 - CheeseBreadSweeper](https://www.beecrowd.com.br/judge/en/problems/view/2552) [[Solução](listas/beecrowd_2552.py)]
+
+   7.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
 
