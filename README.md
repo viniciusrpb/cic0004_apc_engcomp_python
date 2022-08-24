@@ -74,9 +74,9 @@ Prof. Dr. Vinícius R. P. Borges
    
 8. Dicionários e Listas
    
-   8.1. Resolução de problema: [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](dicionarios/beecrowd_1168.py)]
+   8.1. [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](dicionarios/beecrowd_1168.py)]
 
-   8.2. Resolução de problema: [Beecrowd 1318 - Fake Tickets](https://www.beecrowd.com.br/judge/en/problems/view/1318) [[Solução](dicionarios/beecrowd_1318.py)]
+   8.2. [Beecrowd 1318 - Fake Tickets](https://www.beecrowd.com.br/judge/en/problems/view/1318) [[Solução](dicionarios/beecrowd_1318.py)]
 
-   8.3. Resolução de problema: [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
+   8.3. [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
 
