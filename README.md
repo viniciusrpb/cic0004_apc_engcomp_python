@@ -79,4 +79,6 @@ Prof. Dr. Vinícius R. P. Borges
    8.2. [Beecrowd 1318 - Fake Tickets](https://www.beecrowd.com.br/judge/en/problems/view/1318) [[Solução](dicionarios/beecrowd_1318.py)]
 
    8.3. [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
+   
+   8.4. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_ordenacao_dicionarios.ipynb)
 
