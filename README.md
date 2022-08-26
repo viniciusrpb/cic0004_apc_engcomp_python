@@ -80,5 +80,5 @@ Prof. Dr. Vinícius R. P. Borges
 
    8.3. [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
    
-   8.4. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_ordenacao_dicionarios.ipynb)
+   8.4. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
 
