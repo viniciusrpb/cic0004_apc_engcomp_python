@@ -1,16 +1,16 @@
 # CIC0004 - Algoritmos e Programação de Computadores (APC)
 
-Material didático de apoio para a disciplina **CIC0004 - Algoritmos e Programação de Computadores** (Turma 11), do Departamento de Ciência da Computação, da Universidade de Brasília para o semestre 2022/1.
+Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos e Programação de Computadores", Turma 04, semestre 2022/2 do Departamento de Ciência da Computação da Universidade de Brasília.
 
 ## Autores
 
-Prof. Dr. Lucas Rodrigues Costa
+Prof. Vinícius R. P. Borges
 
-Prof. Dr. Vinícius R. P. Borges
+Profa. Aline Barros
 
 ## Conteúdo Programático
 
-1. Variáveis, expressões e instruções
+<!-- 1. Variáveis, expressões e instruções
   
    1.1. [Beecrowd 1020 - Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) [[Solução](var_exp_inst/beecrowd_1020.py)]
 
@@ -86,7 +86,7 @@ Prof. Dr. Vinícius R. P. Borges
 
    9.1. [Arquivo 1](arquivos/diario-oficial.json)
 
-   9.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json)
+   9.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json) -->
    
    
 
