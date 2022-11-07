@@ -12,6 +12,14 @@ Profa. Aline Barros
 
 ## Conteúdo Programático
 
+1. A Jornada do Programa
+
+   1.1. [Fundamentos de Programação de Computadores](jornada/0_fundamentos_programacao.md)
+   
+   1.2. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
+   
+
+
 <!-- 1. Variáveis, expressões e instruções
   
    1.1. [Beecrowd 1020 - Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) [[Solução](var_exp_inst/beecrowd_1020.py)]
