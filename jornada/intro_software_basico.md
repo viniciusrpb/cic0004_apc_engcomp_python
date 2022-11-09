@@ -61,5 +61,5 @@ Exemplos de linguagens interpretadas: Python, R, Matlab, Javascript, Ruby, Perl,
 
 - Programas compilados rodam mais rápido quando comparados aos programas baseados em linguagem interpretadas;
 
-![alt text](imgs/usainbolt_languages.jpg "Apenas para rir")
+![Apenas para rir](imgs/usainbolt_languages.jpg)
 - 
