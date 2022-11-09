@@ -1,6 +1,8 @@
 
 # Software Básico
 
+## Definição de Algoritmo
+
 Um **algoritmo** é uma sequência finita de passos . Existem diversas maneiras de representação de um algoritmo, variando-se desde as abordagens mais próximas à nossa linguagem natural até os algoritmos computacionais. Por exemplo, uma representação alto nível de um algoritmo é a abordagem descritiva, que consiste em enumerar um passo-a-passo de como resolver um problema.
 
 Vale ressaltar que o propósito do algoritmo é sempre o mesmo: descrever uma sequência de passos que fazem sentido a fim de se obter uma saída esperada ao resolver um problema a partir de dados de entrada.
@@ -40,9 +42,15 @@ s=a+b
 print(f"Soma de a e b eh: {s}")
 ```
 
+## O Processo de Tradução
+
+![Apenas para rir](imgs/traducao2.png)
+
 ### Linguagem de Montagem
 
-Também conhecida como *Assembly*, é uma linguagem de nível intermediária entre a linguagem de alto nível e a linguagem de máquina. O Assembly possui uma sintaxe que é legível por humanos para a que uma arquitetura de computador específica usa, utilizada para programar códigos entendidos por dispositivos computacionais, como microprocessadores e microcontroladores.
+Também conhecida como *Assembly*, é uma linguagem de nível intermediária entre a linguagem de alto nível e a linguagem de máquina. O Assembly possui uma sintaxe que é legível por humanos, mas que permite representar textualmente o conjunto de instruções de máquina (ISA) do computador.
+
+O uso de uma linguagem de montagem tem como vantagens a melhora no desempenho do processo de tradução do código-fonte/script em linguagem de alto nível para a linguagem de máquina. Antigamente, nem sempre todos os computadores possuíam compiladores/interpretadores para rodar um programa escrito em determinada linguagem, então a linguagem de montagem, apesar da sintaxe mais complicada, se mostrou uma opção viável. 
 
 ```
 .data
@@ -62,7 +70,7 @@ main:
 	syscall
 ```
 
-Um programa denominado **montador** é designado para converter os comandos/instruções Assembly em linguagem de máquina. Tal conversão depende da arquitetura do sistema computacional associado.
+Um programa denominado **montador** é designado para converter os comandos/instruções Assembly em linguagem de máquina. Tal conversão depende da arquitetura do sistema computacional associado e da especificação do processador, não sendo portanto, única. No exemplo acima, é apresentado o código Assembly MIPS, apesar de existirem outros tipos como Tasm 
 
 
 ### Linguagem de Máquina
