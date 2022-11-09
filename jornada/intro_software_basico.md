@@ -46,11 +46,46 @@ print(f"Soma de a e b eh: {s}")
 
 ![Apenas para rir](imgs/traducao2.png)
 
+### Linguagem em Alto Nível
+
+Se tratam dos algoritmos computacionais descritos em alguma linguagem de programação. Compare os dois códigos-fontes escritos nas linguagens Python e C, respectivamente (observe a diferença na sintaxe, estrutura e nome dos comandos):
+
+**Python**
+```
+a = int(input("Informe o valor do numero a: "))
+b = int(input("Informe o valor do numero b: "))
+
+s=a+b
+print(f"Soma de a e b eh: {s}")
+```
+
+**C**
+```
+#include<stdio.h>
+
+int main(){
+	int a,b,s;
+	
+	printf("Informe o valor do numero a: \n");
+	scanf("%d",&a);
+	printf("Informe o valor do numero b: \n");
+	scanf("%d",&b);
+	
+	s=a+b;
+	
+	printf("Soma de a e b eh: %d\n",s);
+	
+	return 0;
+}
+```
+
 ### Linguagem de Montagem
 
 Também conhecida como *Assembly*, é uma linguagem de nível intermediária entre a linguagem de alto nível e a linguagem de máquina. O Assembly possui uma sintaxe que é legível por humanos, mas que permite representar textualmente o conjunto de instruções de máquina (ISA) do computador.
 
-O uso de uma linguagem de montagem tem como vantagens a melhora no desempenho do processo de tradução do código-fonte/script em linguagem de alto nível para a linguagem de máquina. Antigamente, nem sempre todos os computadores possuíam compiladores/interpretadores para rodar um programa escrito em determinada linguagem, então a linguagem de montagem, apesar da sintaxe mais complicada, se mostrou uma opção viável. 
+O uso de uma linguagem de montagem tem como vantagens a melhora no desempenho do processo de tradução do código-fonte/script em linguagem de alto nível para a linguagem de máquina. Antigamente, nem sempre todos os computadores possuíam compiladores/interpretadores para rodar um programa escrito em determinada linguagem, então a linguagem de montagem, apesar da sintaxe mais complicada, se mostrou uma opção viável.
+
+O exemplo é o resultado da conversão do código-fonte anterior em Assembly:
 
 ```
 .data
@@ -70,7 +105,9 @@ main:
 	syscall
 ```
 
-Um programa denominado **montador** é designado para converter os comandos/instruções Assembly em linguagem de máquina. Tal conversão depende da arquitetura do sistema computacional associado e da especificação do processador, não sendo portanto, única. No exemplo acima, é apresentado o código Assembly MIPS, apesar de existirem outros tipos como Tasm 
+Um programa denominado **montador** é designado para converter os comandos/instruções Assembly em linguagem de máquina. Tal conversão depende da arquitetura do sistema computacional associado e da especificação do processador, não sendo portanto, única. No exemplo acima, é apresentado o código em linguagem Assembly MIPS (de *Microprocessor without Interlocked Pipeline Stages*), apesar de existirem outros tipos como x86.
+
+PS.: o propósito do MIPS é bem diferente do x86, já que baseiam em diferentes tipos de conjuntos de instruções! O MIPS se baseia em um conjunto reduzido de instruções, enquanto que o Assembly x86 se baseia em arquiteturas com conjuntos complexos de instrulões. Mas isso é conversa para outra disciplina: *Organização e Arquitetura de Computadores*.
 
 
 ### Linguagem de Máquina
