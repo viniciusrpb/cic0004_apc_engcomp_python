@@ -151,7 +151,7 @@ Exemplos de linguagens interpretadas: Python, R, Matlab, Javascript, Ruby, Perl,
 
 - Programas compilados rodam mais rápido quando comparados aos programas baseados em linguagem interpretadas, sendo menos dependentes do desempenho do sistema operacional e da qualidade do hardware.
 
-- 
+- Não existe a melhor abordagem, isto é, se linguagens interpretadas são melhores do que linguagens compiladas! Depende da aplicação, por exemplo, em um navegador web, em que os sites a serem apresentados pelo navegador variam conforme a navegação do usuário. Nesse caso, o uso de uma linguagem interpretada é mais apropriado.  
 
 ## Para rir
 ![Apenas para rir](imgs/usainbolt_languages.jpg)
