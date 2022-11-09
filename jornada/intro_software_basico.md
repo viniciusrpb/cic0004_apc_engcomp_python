@@ -1,7 +1,5 @@
 
-# Capítulo 1 - Fundamentos de Programação de Computadores
-
-## Linguagens de Programação
+# Software Básico
 
 Um **algoritmo** é uma sequência finita de passos . Existem diversas maneiras de representação de um algoritmo, variando-se desde as abordagens mais próximas à nossa linguagem natural até os algoritmos computacionais. Por exemplo, uma representação é o Portugol. Vale ressaltar que o propósito do algoritmo é sempre o mesmo: descrever uma sequência de passos que fazem sentido a fim de se obter uma saída esperada ao resolver um problema a partir de dados de entrada.
 
