@@ -14,9 +14,11 @@ Profa. Aline Barros
 
 1. A Jornada do Programa
 
-   1.1. [Fundamentos de Programação de Computadores](jornada/0_fundamentos_programacao.md)
+   1.1. [Fundamentos de Programação de Computadores](jornada/intro_arquitetura_computadores.md)
    
    1.2. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
+   
+   1.3. [Software Básico](jornada/intro_software_basico.md)
    
 
 
