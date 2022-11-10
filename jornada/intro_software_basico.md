@@ -3,7 +3,7 @@
 
 ## Definição de Algoritmo
 
-Um **algoritmo** é uma sequência finita de passos . Existem diversas maneiras de representação de um algoritmo, variando-se desde as abordagens mais próximas à nossa linguagem natural até os algoritmos computacionais. Por exemplo, uma representação alto nível de um algoritmo é a abordagem descritiva, que consiste em enumerar um passo-a-passo de como resolver um problema.
+Um **algoritmo** é uma sequência finita de passos formulada de maneira lógica para gerar um conjunto de saídas esperadas a partir de um conjunto de dados de entrada. Existem diversas maneiras de representação de um algoritmo, variando-se desde as abordagens mais próximas à nossa linguagem natural até os algoritmos computacionais. Por exemplo, uma representação alto nível de um algoritmo é a abordagem descritiva, que consiste em enumerar um passo-a-passo e descrever textualmente como resolver o problema em questão.
 
 Vale ressaltar que o propósito do algoritmo é sempre o mesmo: descrever uma sequência de passos que fazem sentido a fim de se obter uma saída esperada ao resolver um problema a partir de dados de entrada.
 
@@ -44,7 +44,13 @@ print(f"Soma de a e b eh: {s}")
 
 ## O Processo de Tradução
 
-![Apenas para rir](imgs/traducao2.png)
+Suponha que você desenvolveu um algoritmo em um código-fonte/script em uma determinada linguagem de programação. Queremos que esse código-fonte seja executado como um programa em computador. Para esse propósito, devemos converter o código-fonte/script para linguagem de máquina, em que essa mesma informação (comandos/instruções/dados) é representada no sistema binário (*bits*). A linguagem de máquina é a representação utilizada para viabilizar a comunicação entre o hardware e o software.
+
+O processo de conversão de um código-fonte/script originalmente escrito em uma linguagem de alto nível para uma linguagem de baixo nível é denominado *tradução*. A figura abaixo ilustra o passo-a-passo desse processo:
+
+![O processo de tradução](imgs/traducao2.png)
+
+Detalhamos abaixo cada uma das etapas mencionadas:
 
 ### Linguagem em Alto Nível
 
