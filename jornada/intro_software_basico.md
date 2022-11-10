@@ -50,7 +50,7 @@ O processo de conversão de um código-fonte/script originalmente escrito em uma
 
 ![O processo de tradução](imgs/traducao2.png)
 
-Detalhamos abaixo cada uma das etapas mencionadas:
+A grande etapa de **Tradução** pode ser feita por meio de três abordagens: compilação, interpretaçãoe híbrida. Detalhamos abaixo cada uma das etapas mencionadas:
 
 ### Linguagem em Alto Nível
 
@@ -118,7 +118,7 @@ PS.: o propósito do MIPS é bem diferente do x86, já que baseiam em diferentes
 
 ### Linguagem de Máquina
 
-Também conhecida como código de máquina, é a linguagem padrão dos computadores. A informação está representada por bits (zero e um), sendo lida, armazenada e processada pela unidade central de processamento (CPU). A linguagem de máquina também pode ser expressa em notação hexadecimal.
+Também conhecida como código de máquina, é a linguagem padrão dos computadores. A informação está representada por bits (zero e um), sendo lida, armazenada e processada pela unidade central de processamento (CPU).
 
 ```
 010101010101010101010000000111100101010111100000000110101010001010101010101010101010101010101010101010001111100101010101010110010011001011001001010100111
@@ -133,6 +133,8 @@ Também conhecida como código de máquina, é a linguagem padrão dos computado
 001111001010101111000000001101010100010101010101010101010101010101010101010100011111001010101010101100100110010110010010101001110001100010100110010101010
 101010101010000000111100101010111100000000110101010001010101010101010101010101010101010101010001111100101010101010110010011001011001001010100111000110001
 ```
+
+Como os computadores processam a informação em linguagem de máquina? Isso depende da arquitetura do computador e do seu conjunto de instruções *(ISA - Instruction Set Architecture)*, que definem os modos de endereçamento de memória, conjunto de registradores, tamanho da palavra de memória, fluxo de controle etc. Esses estudos serão feitos de maneira detalhada em uma outra disciplina, denominada CIC0099 - Organização e Arquitetura de Computadores.
 
 
 ## Compilação
