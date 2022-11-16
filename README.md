@@ -22,7 +22,11 @@ Profa. Aline Barros
    
 
 
-<!-- 1. Variáveis, expressões e instruções
+2. Variáveis, expressões e instruções
+
+   2.1. [Exemplos de leitura/escrita de dados em Python](var_exp_inst/README.md)
+  
+<!--
   
    1.1. [Beecrowd 1020 - Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) [[Solução](var_exp_inst/beecrowd_1020.py)]
 
