@@ -173,6 +173,22 @@ value = 1234
 print(f'Valor: {value:07d}')
 ```
 
+### Escrita de um número inteiro com exatamente 7 digitos inteiros à esquerda
+
+Espaçamento em branco
+
+```
+value = 1234
+print(f'Valor: {value:7d}')
+```
+
+Com zeros à esquerda
+
+```
+value = 1234
+print(f'Valor: {value:07d}')
+```
+
 ### Escrita de dois números inteiros em linhas separadas
 
 Estratégia 1
