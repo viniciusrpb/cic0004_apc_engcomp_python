@@ -2,7 +2,7 @@
 
 ## Leitura
 
-Em Python, a leitura de dados da entrada padrão é feita por meio da função [input](https://docs.python.org/3/tutorial/inputoutput.html). Essa função captura todos os caracteres que foram digitados em uma linha fornecida na entrada. Define-se que uma linha da entrada é toda a sequência de caracteres que é digitada até que se aperte a tecla *ENTER* ou quando se está lendo um arquivo e o caractere ```\n``` é encontrado.
+Em Python, a leitura de dados da entrada padrão é feita por meio da função [input](https://docs.python.org/3/tutorial/inputoutput.html). Essa função captura todos os caracteres que foram digitados em uma linha fornecida na entrada. Define-se que uma linha da entrada é toda a sequência de caracteres que é digitada até que se aperte a tecla *ENTER* ou quando se está lendo um arquivo e o caractere '```\n```' é encontrado.
 
 A função ```input()``` retorna uma string, isto é, uma sentença que também pode ser vista como uma cadeia de caracteres. Normalmente, a leitura da entrada **depende** do problema a ser resolvido. Assim, é comum utilizar o método ```split()``` na string obtida após o método ```input()``` para separar cada termo que é interessante para o nosso problema. A Figura abaixo ilusta essa ideia:
 
@@ -157,20 +157,11 @@ value = 1234.56234536457
 print('Valor: {:.3f}'.format(value))
 ```
 
-### Escrita de um número inteiro com exatamente 7 digitos inteiros à esquerda
-
-Espaçamento em branco
+Exercício: o que acontece com o bloco de código-fonte abaixo?
 
 ```
-value = 1234
-print(f'Valor: {value:7d}')
-```
-
-Com zeros à esquerda
-
-```
-value = 1234
-print(f'Valor: {value:07d}')
+value = 3.14
+print(f'Valor: {value:.7f}')
 ```
 
 ### Escrita de um número inteiro com exatamente 7 digitos inteiros à esquerda
@@ -187,6 +178,36 @@ Com zeros à esquerda
 ```
 value = 1234
 print(f'Valor: {value:07d}')
+```
+
+### Escrita de um número inteiro com exatamente 7 digitos inteiros à esquerda
+
+Espaçamento em branco
+
+```
+value = 1234
+print(f'Valor: {value:7d}')
+```
+
+Com zeros à esquerda
+
+```
+value = 1234
+print(f'Valor: {value:07d}')
+```
+
+### Escrita de um número inteiro em um campo de 7 caracteres (dígitos)
+
+```
+value = 5
+print(f'{value:7d}')
+```
+
+### Escrita de um número inteiro em um campo de 7 caracteres (dígitos)
+
+```
+value = 5
+print(f'{value:-7d}')
 ```
 
 ### Escrita de dois números inteiros em linhas separadas
