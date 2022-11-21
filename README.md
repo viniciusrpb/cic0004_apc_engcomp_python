@@ -21,19 +21,18 @@ Profa. Aline Barros
    1.3. [Software Básico](jornada/intro_software_basico.md)
    
 
-
 2. Variáveis, expressões e instruções
 
    2.1. [Exemplos de leitura/escrita de dados em Python](var_exp_inst/README.md)
   
-   2.2. [Beecrowd 1020 - Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) <!--[[Solução](var_exp_inst/beecrowd_1020.py)]-->
+   2.2. [Beecrowd 1020 - Age in Days](https://www.beecrowd.com.br/judge/en/problems/view/1020) [[Solução](var_exp_inst/beecrowd_1020.py)]
 
-   2.3. [Beecrowd 2413 - Busca na Internet](https://www.beecrowd.com.br/judge/en/problems/view/2413) <!--[[Solução](var_exp_inst/beecrowd_2413.py)]-->
+   2.3. [Beecrowd 2413 - Busca na Internet](https://www.beecrowd.com.br/judge/en/problems/view/2413) [[Solução](var_exp_inst/beecrowd_2413.py)]
    
-   2.4. [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) <!--[[Solução](var_exp_inst/beecrowd_2416.py)]-->
+   2.4. [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](var_exp_inst/beecrowd_2416.py)]
    
-   2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) <!--[[Solução](var_exp_inst/beecrowd_2786.py)] -->
-   <!--
+   2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
+
 2. Estruturas Condicionais
 
    2.1. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
