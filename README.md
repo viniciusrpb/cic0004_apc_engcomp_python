@@ -47,7 +47,7 @@ Profa. Aline Barros
    3.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
    3.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
--->
+
 
 <!--
 4. Iteração
