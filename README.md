@@ -33,7 +33,6 @@ Profa. Aline Barros
    
    2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
    
-<!--
 
 2. Estruturas Condicionais
 
@@ -48,7 +47,7 @@ Profa. Aline Barros
    3.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
    3.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
-
+-->
 4. Iteração
 
    4.1. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]  
