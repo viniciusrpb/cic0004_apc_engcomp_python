@@ -32,8 +32,10 @@ Profa. Aline Barros
    2.4. [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](var_exp_inst/beecrowd_2416.py)]
    
    2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
-   
-   2.6. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
+
+2. Funções
+
+   2.1. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
    
 <!--
 2. Estruturas Condicionais
