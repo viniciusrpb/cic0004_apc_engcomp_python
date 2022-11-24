@@ -39,6 +39,12 @@ Profa. Aline Barros
    
    3.2. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
    
+4. Turma 02
+   
+   4.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166)
+   
+   4.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441)
+   
 <!--
 4. Estruturas Condicionais
 
