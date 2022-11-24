@@ -33,27 +33,29 @@ Profa. Aline Barros
    
    2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
 
-2. Funções
+3. Funções
 
-   2.1. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
+   3.1. [Highlights de Funções](funcoes/README.md)
+   
+   3.2. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
    
 <!--
-2. Estruturas Condicionais
+4. Estruturas Condicionais
 
-   2.1. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
+   4.1. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
 
-   2.2. [Beecrowd 2455 - Gangorra](https://www.beecrowd.com.br/judge/en/problems/view/2455) [[Solução](condicionais/beecrowd_2455.py)]
+   4.2. [Beecrowd 2455 - Gangorra](https://www.beecrowd.com.br/judge/en/problems/view/2455) [[Solução](condicionais/beecrowd_2455.py)]
 
-   2.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
+   4.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
    
-3. Funções e Recursividade
+5. Recursividade
    
-   3.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
+   5.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
-   3.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
+   5.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 
-4. Iteração
+6. Iteração
 
    4.1. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]  
 
