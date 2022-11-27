@@ -38,12 +38,7 @@ Profa. Aline Barros
    3.1. [Highlights de Funções](funcoes/README.md)
    
    3.2. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
-   
-4. Turma 02
-   
-   4.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166)
-   
-   4.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441)
+
    
 4. Estruturas Condicionais
 
@@ -52,6 +47,8 @@ Profa. Aline Barros
    4.2. [Beecrowd 2455 - Gangorra](https://www.beecrowd.com.br/judge/en/problems/view/2455) [[Solução](condicionais/beecrowd_2455.py)]
 
    4.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
+
+   4.4. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
 
 <!--
 
