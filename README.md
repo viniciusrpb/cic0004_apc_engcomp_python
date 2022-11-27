@@ -45,7 +45,6 @@ Profa. Aline Barros
    
    4.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441)
    
-<!--
 4. Estruturas Condicionais
 
    4.1. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
@@ -53,7 +52,9 @@ Profa. Aline Barros
    4.2. [Beecrowd 2455 - Gangorra](https://www.beecrowd.com.br/judge/en/problems/view/2455) [[Solução](condicionais/beecrowd_2455.py)]
 
    4.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
-   
+
+<!--
+
 5. Recursividade
    
    5.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
