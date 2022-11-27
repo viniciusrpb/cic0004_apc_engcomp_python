@@ -32,6 +32,8 @@ Profa. Aline Barros
    2.4. [Beecrowd 2416 - Corrida](https://www.beecrowd.com.br/judge/en/problems/view/2416) [[Solução](var_exp_inst/beecrowd_2416.py)]
    
    2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
+   
+   2.6. [Beecrowd 3346 - Flutuação do PIB](https://www.beecrowd.com.br/judge/pt/problems/view/3346) [[Solução](var_exp_inst/beecrowd_3346.py)]
 
 3. Funções
 
