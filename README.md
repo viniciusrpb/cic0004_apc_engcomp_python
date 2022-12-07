@@ -52,7 +52,6 @@ Profa. Aline Barros
 
    4.4. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
 
-<!--
 
 5. Recursividade
    
@@ -60,7 +59,7 @@ Profa. Aline Barros
    
    5.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
-
+<!--
 6. Iteração
 
    4.1. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]  
