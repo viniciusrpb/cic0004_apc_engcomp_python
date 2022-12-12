@@ -9,29 +9,21 @@ Objetivo: Solução do problema beecrowd 1441 - Hailstone Sequences
 Linha de comando para executar: python3 beecrowd_1441.py
 '''
 
-def sequence(h):
-    
-    if h == 1:
+def hailstone(hn_1):
+
+    if hn_1 == 1:
         return 1
-    if h % 2 == 0:
-        hh = h//2
+
+    if hn_1 % 2 == 0:
+        hn = hailstone(hn_1//2)
     else:
-        hh = 3 * h + 1
-    
-    return max(sequence(hh),h)
-    
+        hn = hailstone(3*hn_1 + 1)
+
+    return max(hn_1,hn)
 
 n = int(input())
 
-while n > 0:    
-        
-    ans = sequence(n)   
-    
-    print(ans)
-    
+while n>0:
+    ans = hailstone(n)
+    print(f'{ans}')
     n = int(input())
-
-
-
-    
-
