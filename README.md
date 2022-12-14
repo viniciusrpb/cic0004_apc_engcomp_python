@@ -39,7 +39,9 @@ Profa. Aline Barros
 
    3.1. [Highlights de Funções](funcoes/README.md)
    
-   3.2. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
+   3.2. [Funções Matemáticas no Python](funcoes/funcoes_matematicas_python.ipynb)
+   
+   3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
 
    
 4. Estruturas Condicionais
