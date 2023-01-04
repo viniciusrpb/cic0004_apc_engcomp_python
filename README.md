@@ -61,19 +61,20 @@ Profa. Aline Barros
    
    5.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
-<!--
+
 6. Iteração
 
-   4.1. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]  
+   6.1. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]  
 
-   4.2. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
+   6.2. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
 
-   4.3. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
+   6.3. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
 
-   4.4. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
+   6.4. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
    
-   4.5. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
-   
+   6.5. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
+
+<!--
 5. Strings
  
    5.1. [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](strings/beecrowd_2866.py)]
