@@ -64,7 +64,7 @@ Profa. Aline Barros
 
 6. Iteração
 
-   6.1. [Notas de aula](notas_aula_iteracao.ipynb)
+   6.1. [Notas de aula](iteracao/notas_aula_iteracao.ipynb)
 
    6.2. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]
    
