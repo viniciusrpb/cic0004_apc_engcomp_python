@@ -10,7 +10,7 @@ Profa. Aline Barros
 
 ## Cronograma Previsto de Aulas
 
-Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar o cronograma previsto de aulas da turma.
+Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar o cronograma previsto de aulas da Turma 04.
 
 *Última atualização: 05 de janeiro de 2023*
 
