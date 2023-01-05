@@ -2,13 +2,18 @@
 
 Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos e Programação de Computadores", Turma 04, semestre 2022/2 do Departamento de Ciência da Computação da Universidade de Brasília.
 
-Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar o cronograma previsto de aulas da turma.
-
 ## Autores
 
 Prof. Vinícius R. P. Borges
 
 Profa. Aline Barros
+
+## Cronograma Previsto de Aulas
+
+Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar o cronograma previsto de aulas da turma.
+
+*Última atualização: 05 de janeiro de 2023*
+
 
 ## Conteúdo Programático
 
