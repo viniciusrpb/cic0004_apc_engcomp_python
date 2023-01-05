@@ -64,15 +64,17 @@ Profa. Aline Barros
 
 6. Iteração
 
-   6.1. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]  
+   6.1. [Notas de aula](notas_aula_iteracao.ipynb)
 
-   6.2. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
-
+   6.2. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]
+   
    6.3. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
 
-   6.4. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
+   6.4. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
+
+   6.5. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
    
-   6.5. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
+   6.6. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
 
 <!--
 5. Strings
