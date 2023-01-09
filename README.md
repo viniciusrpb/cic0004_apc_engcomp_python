@@ -81,14 +81,14 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    
    6.6. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
 
-<!--
+
 5. Strings
  
    5.1. [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](strings/beecrowd_2866.py)]
    
    5.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)]
    
-   
+<!--   
 6. Listas Homogêneas
  
    6.1. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
