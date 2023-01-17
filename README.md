@@ -64,7 +64,9 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    
    5.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
-   5.2. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
+   5.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
+   
+   5.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 
 6. Iteração
