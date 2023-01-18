@@ -16,7 +16,7 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
 
 ## Simulados
 
-- **(18/01/2023)** [Simulado Prova 2](simulados/prova2.md)
+- **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
 
 ## Conteúdo Programático
 
