@@ -4,7 +4,7 @@
 
 ## Simulado Prova 2
 
-2.1. [Beecrowd 2161 - Raiz Quadrada de 10](https://www.beecrowd.com.br/judge/pt/problems/view/1020) [[Solução](simulados/beecrowd_2161.py)]
+2.1. [Beecrowd 2161 - Raiz Quadrada de 10](https://www.beecrowd.com.br/judge/pt/problems/view/1020) *Feito em sala de aula (veja o problema "Raiz Quadrada de 2")*
 
 2.2. [Beecrowd 1827 - Matriz Quadrada IV](https://www.beecrowd.com.br/judge/pt/problems/view/1827) [[Solução](simulados/beecrowd_1827.py)]
 
