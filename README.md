@@ -14,9 +14,6 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 05 de janeiro de 2023*
 
-## Simulados
-
-- **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
 
 ## Conteúdo Programático
 
@@ -103,6 +100,11 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    6.3. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
    
    6.4. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
+
+
+## Simulados
+
+- **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
 
 <!--   
 7. Listas Heterogêneas
