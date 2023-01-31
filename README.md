@@ -114,7 +114,7 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    
 10. Dicionários e Listas
 
-    10.1. [Notas de aula](dicionarios/cap09_dicionarios.ipynb)
+    10.1. [Notas de aula](dicionarios/cap9_dicionarios.ipynb)
    
     10.2. [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](dicionarios/beecrowd_1168.py)]
 
