@@ -3,7 +3,7 @@ Universidade de Brasília
 Departamento de Ciência da Computação
 CIC0004 - Algoritmos e Programação de Computadores
 Prof. Dr. Vinícius R. P. Borges
-Tópico: Dicionários
+Tópico: Strings
 Objetivo: Solução do problema beecrowd 2087 - Conjuntos Bons e Ruins
           https://www.beecrowd.com.br/judge/pt/problems/view/2087
           
