@@ -1,6 +1,6 @@
 # CIC0004 - Algoritmos e Programação de Computadores (APC)
 
-Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos e Programação de Computadores", Turma 04, semestre 2022/2 do Departamento de Ciência da Computação da Universidade de Brasília.
+Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos e Programação de Computadores", Turma 01, semestre 2023/1 do Departamento de Ciência da Computação da Universidade de Brasília.
 
 ## Autores
 
@@ -25,6 +25,7 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    
    1.3. [Software Básico](jornada/intro_software_basico.md)
    
+<!--
 
 2. Variáveis, expressões e instruções
 
@@ -64,7 +65,7 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    
    5.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
-   <!--5.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]-->
+   5.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
    
    5.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
@@ -131,7 +132,7 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
 
 - **(08/02/2023)** [Simulado Prova 3](simulados/README.md)
 
-<!--   
+
 
    
 9. Arquivos
