@@ -23,13 +23,17 @@ Trata-se da unidade funcional do computador que interpreta e executa instruçõe
 - Unidade de Controle: é a parte da CPU que controla a execução de operações na CPU, incluindo operações da ULA, movimentação de dados dentro da CPU e troca de dados e sinais de controle por meio de interfaces externas (por exemplo, através do barramento de sistema);
 - Unidade de Lógica e Aritmética: é a unidade que efetua operações lógicas e aritméticas
 
-Ações da CPU:
+### Ações da CPU
 
 1) Busca da instrução: a CPU lê uma instrução da memória;
 2) Interpretação da instrução: a instrução é decodificada para determinação da ação requerida;
 3) Busca de dados: a execução de uma instrução pode demandar a leitura de dados da memória ou de um módulo de I/O;
 4) Processamento de dados: a execução de uma instrução pode demandar a execução de operações aritméticas ou lógicas sobre os dados;
 5) Escrita de dados: os resultados dessas execuções podem requerer a escrita de dados na memória ou em um módulo de I/O.
+
+### Ciclo de Instrução
+
+![O Ciclo de Instrução](imgs/ciclo_instrucao.png)
 
 
 ## Memória
