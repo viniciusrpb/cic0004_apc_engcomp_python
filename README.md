@@ -21,9 +21,10 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
 
    1.1. [Introdução a Organização e Arquitetura de Computadores](jornada/intro_arquitetura_computadores.md)
    
-   1.2. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
+   1.2. [Software Básico](jornada/intro_software_basico.md)
    
-   1.3. [Software Básico](jornada/intro_software_basico.md)
+   1.3. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
+   
    
 <!--
 
