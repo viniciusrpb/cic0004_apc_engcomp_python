@@ -46,6 +46,31 @@ Trata-se da unidade funcional do computador que interpreta e executa instruçõe
 - Memória Virtual: espaço de armazenamento que pode ser visto como o armazenamento principal endereçável pelo usuário do computador, no qual um endereço virtual é convertido em um endereço real. O tamanho da memória virtual é 
 - Registradores: trata-se da memória interna rápida da CPU. Alguns registradores podem ser utilizados diretamente pelo programador por meio do conjunto de instruções de máquina
 
+## Dispositivos de Entrada e Saída (Input/Output Devices)
+
+Permitem a interação entre o sistema de computação com o ambiente externo
+
+### Entrada
+
+- Mouse;
+- Teclado;
+- Webcam;
+- Sensores;
+- Microfone
+
+### Saída
+
+- Monitor;
+- Impressora;
+- Som;
+
+
+## Sistemas de Interconexão
+
+![Hierarquia de Memória](imgs/barramentos.png)
+
+Permitem a interligação entre dispositivos, como o processador, a memória e discos rígidos e dispositivos de entrada e saída.
+
 # Referências
 
 Livro do William Stallings - Arquitetura e Organização de Computadores - 10a edição
