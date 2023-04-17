@@ -25,8 +25,7 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    
    1.3. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
    
-   
-<!--
+  
 
 2. Variáveis, expressões e instruções
 
@@ -41,6 +40,8 @@ Clique [aqui](cic0004_turma04_cronogramaPrevistoAulas_20222_v2.pdf) para acessar
    2.5. [Beecrowd 2786 - School Floor](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](var_exp_inst/beecrowd_2786.py)]
    
    2.6. [Beecrowd 3346 - Flutuação do PIB](https://www.beecrowd.com.br/judge/pt/problems/view/3346) [[Solução](var_exp_inst/beecrowd_3346.py)]
+
+<!--
 
 3. Funções
 
