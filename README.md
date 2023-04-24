@@ -41,7 +41,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
    
    2.6. [Beecrowd 3346 - Flutuação do PIB](https://www.beecrowd.com.br/judge/pt/problems/view/3346) [[Solução](var_exp_inst/beecrowd_3346.py)]
 
-<!--
+
 
 3. Funções
 
@@ -51,7 +51,8 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
    
    3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021)
 
-   
+<!--
+  
 4. Estruturas Condicionais
 
    4.1. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
