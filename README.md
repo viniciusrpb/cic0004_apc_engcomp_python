@@ -49,7 +49,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
    
    3.2. [Funções Matemáticas no Python](funcoes/funcoes_matematicas_python.ipynb)
    
-   3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) [[Solução](funcoes/banknotes.py)]
+   3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) [[Solução](funcoes/beecrowd_1021.py)]
 
 <!--
   
