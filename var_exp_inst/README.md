@@ -238,6 +238,17 @@ b = 5
 print(f'{a} {b}')
 ```
 
+
+### Inclusão de sinal antes do número inteiro
+
+```
+x = 3
+y = -2
+
+print(f'{x:+}')
+print(f'{y:+}')
+```
+
 ## Referências
 
 - [Documentação do Python](https://docs.python.org/3/tutorial/inputoutput.html)
