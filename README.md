@@ -50,8 +50,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
    3.2. [Funções Matemáticas no Python](funcoes/funcoes_matematicas_python.ipynb)
    
    3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) [[Solução](funcoes/beecrowd_1021.py)]
-
-<!--
+   
   
 4. Estruturas Condicionais
 
@@ -63,6 +62,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
 
    4.4. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
 
+<!--
 
 5. Recursividade
    
