@@ -62,6 +62,21 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
 
    4.4. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
 
+
+5. Iteração
+
+   5.1. [Notas de aula](iteracao/notas_aula_iteracao.ipynb)
+
+   5.2. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]
+   
+   5.3. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
+
+   5.4. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
+
+   5.5. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
+   
+   5.6. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
+
 <!--
 
 5. Recursividade
@@ -73,19 +88,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar
    5.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 
-6. Iteração
 
-   6.1. [Notas de aula](iteracao/notas_aula_iteracao.ipynb)
-
-   6.2. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]
-   
-   6.3. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
-
-   6.4. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
-
-   6.5. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
-   
-   6.6. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
 
 
 7. Strings
