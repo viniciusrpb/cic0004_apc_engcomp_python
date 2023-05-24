@@ -12,7 +12,7 @@ Profa. Aline Barros
 
 Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v1.pdf) para acessar o cronograma previsto de aulas da Turma 01.
 
-&nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 28 de março de 2023*
+&nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 23 de maio de 2023*
 
 
 ## Conteúdo Programático
