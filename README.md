@@ -82,6 +82,12 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    6.1. [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](strings/beecrowd_2866.py)]
    
    6.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)]
+
+## Preparação Prova 1 (29/05/2023)
+
+   1. [Beecrowd 2557 - R+L=J](https://www.beecrowd.com.br/judge/pt/problems/view/2557) [[Solução](prova1/beecrowd_2557.py)]
+   
+   2. [Beecrowd 1478 - Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478) [[Solução](prova1/beecrowd_1478.py)]
    
 <!--
 
@@ -92,13 +98,6 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    5.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
    
    5.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
-
-
-
-
-
-
-   
 
 8. Listas Homogêneas
 
