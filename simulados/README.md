@@ -2,6 +2,17 @@
 
 ## Simulado Prova 1
 
+1.1. [Beecrowd 3049 - Nota Cortada](https://www.beecrowd.com.br/judge/pt/problems/view/3049) [[Solução](prova1/beecrowd_3049.py)]
+   
+1.2. [Beecrowd 1929 - Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1929) [[Solução](prova1/beecrowd_1929.py)]
+
+1.3. [Beecrowd 2443 - Soma de Frações](https://www.beecrowd.com.br/judge/pt/problems/view/2443) [[Solução](prova1/beecrowd_2443.py)]
+
+1.4. [Beecrowd 3068 - Meteoros](https://www.beecrowd.com.br/judge/pt/problems/view/3068) [[Solução](prova1/beecrowd_3068.py)]
+
+1.5. [Beecrowd 2462 - Voos](https://www.beecrowd.com.br/judge/pt/problems/view/2462) [[Solução](prova1/beecrowd_2462.py)]
+
+<!--
 ## Simulado Prova 2
 
 2.1. [Beecrowd 2161 - Raiz Quadrada de 10](https://www.beecrowd.com.br/judge/pt/problems/view/1020) *Feito em sala de aula (veja o problema "Raiz Quadrada de 2")*
@@ -23,3 +34,4 @@
 3.4. [Beecrowd 2087 - Conjuntos Bons e Ruins](https://www.beecrowd.com.br/judge/pt/problems/view/2087) [[Solução](beecrowd_2087.py)] *Obs: solução "correta" ineficiente, pois os casos de teste ocultos estão fracos*
 
 3.5. [Beecrowd 1709 - Baralho Embaralhado](https://www.beecrowd.com.br/judge/pt/problems/view/1709) [[Solução](beecrowd_1709.py)]
+-->
