@@ -88,8 +88,17 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    1. [Beecrowd 2557 - R+L=J](https://www.beecrowd.com.br/judge/pt/problems/view/2557) [[Solução](prova1/beecrowd_2557.py)]
    
    2. [Beecrowd 1478 - Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478) [[Solução](prova1/beecrowd_1478.py)]
-   
+
+## Simulados
+
+- **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
+ 
 <!--
+- **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
+
+- **(08/02/2023)** [Simulado Prova 3](simulados/README.md)
+   
+
 
 5. Recursividade
    
@@ -133,11 +142,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
     10.5. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
 
 
-## Simulados
 
-- **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
-
-- **(08/02/2023)** [Simulado Prova 3](simulados/README.md)
 
 
 
