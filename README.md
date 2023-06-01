@@ -83,15 +83,17 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    
    6.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)]
 
-## Preparação Prova 1 (29/05/2023)
+## Simulados
+
+- **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
+
+## Revisão para Provas
+
+### Prova 1 (29/05/2023)
 
    1. [Beecrowd 2557 - R+L=J](https://www.beecrowd.com.br/judge/pt/problems/view/2557) [[Solução](prova1/beecrowd_2557.py)]
    
    2. [Beecrowd 1478 - Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478) [[Solução](prova1/beecrowd_1478.py)]
-
-## Simulados
-
-- **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
  
 <!--
 - **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
