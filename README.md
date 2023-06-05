@@ -81,7 +81,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
  
    6.1. [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](strings/beecrowd_2866.py)]
    
-   6.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)]
+   6.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)] [[Solução](strings/beecrowd_1253_2.py)]
 
 7. Listas Homogêneas
 
