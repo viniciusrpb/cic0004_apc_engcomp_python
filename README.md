@@ -83,6 +83,19 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    
    6.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)]
 
+7. Listas Homogêneas
+
+   7.1. [Notas de aula](listas/cap08_listas.ipynb)
+ 
+   7.2. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
+   
+   7.3. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)] *dá para fazer sem listas*
+   
+   7.4. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
+   
+   7.5. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
+
+
 ## Simulados
 
 - **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
