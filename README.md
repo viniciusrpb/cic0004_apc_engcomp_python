@@ -95,6 +95,15 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    
    7.5. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
 
+8. Listas Heterogêneas
+
+   8.1. [Beecrowd 1181 - Line in Array](https://www.beecrowd.com.br/judge/en/problems/view/1181) [[Solução](listas/beecrowd_1181.py)]
+
+   8.2. [Beecrowd 2552 - CheeseBreadSweeper](https://www.beecrowd.com.br/judge/en/problems/view/2552) [[Solução](listas/beecrowd_2552.py)]
+
+   8.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
+   
+   
 
 ## Simulados
 
@@ -135,15 +144,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    
    8.5. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
    
-9. Listas Heterogêneas
 
-   9.1. [Beecrowd 1181 - Line in Array](https://www.beecrowd.com.br/judge/en/problems/view/1181) [[Solução](listas/beecrowd_1181.py)]
-
-   9.2. [Beecrowd 2552 - CheeseBreadSweeper](https://www.beecrowd.com.br/judge/en/problems/view/2552) [[Solução](listas/beecrowd_2552.py)]
-
-   9.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
-   
-   
 10. Dicionários e Listas
 
     10.1. [Notas de aula](dicionarios/cap9_dicionarios.ipynb)
