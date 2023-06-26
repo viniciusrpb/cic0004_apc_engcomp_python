@@ -10,9 +10,9 @@ Profa. Aline Barros
 
 ## Cronograma Previsto de Aulas
 
-Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar o cronograma previsto de aulas da Turma 01.
+Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar o cronograma previsto de aulas da Turma 01.
 
-&nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 23 de maio de 2023*
+&nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 26 de junho de 2023*
 
 
 ## Conteúdo Programático
@@ -102,8 +102,19 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    8.2. [Beecrowd 2552 - CheeseBreadSweeper](https://www.beecrowd.com.br/judge/en/problems/view/2552) [[Solução](listas/beecrowd_2552.py)]
 
    8.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
+
+9. Dicionários e Listas
+
+    9.1. [Notas de aula](dicionarios/cap9_dicionarios.ipynb)
    
+    9.2. [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](dicionarios/beecrowd_1168.py)]
+
+    9.3. [Beecrowd 1318 - Fake Tickets](https://www.beecrowd.com.br/judge/en/problems/view/1318) [[Solução](dicionarios/beecrowd_1318.py)]
+
+    9.4. [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
    
+    9.5. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
+
 
 ## Simulados
 
@@ -131,37 +142,6 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v2.pdf) para acessar
    5.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
    
    5.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
-
-8. Listas Homogêneas
-
-   8.1. [Notas de aula](listas/cap08_listas.ipynb)
- 
-   8.2. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
-   
-   8.3. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)] *dá para fazer sem listas*
-   
-   8.4. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
-   
-   8.5. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
-   
-
-10. Dicionários e Listas
-
-    10.1. [Notas de aula](dicionarios/cap9_dicionarios.ipynb)
-   
-    10.2. [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](dicionarios/beecrowd_1168.py)]
-
-    10.3. [Beecrowd 1318 - Fake Tickets](https://www.beecrowd.com.br/judge/en/problems/view/1318) [[Solução](dicionarios/beecrowd_1318.py)]
-
-    10.4. [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
-   
-    10.5. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
-
-
-
-
-
-
    
 9. Arquivos
 
