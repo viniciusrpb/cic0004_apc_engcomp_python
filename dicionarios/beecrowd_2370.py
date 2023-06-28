@@ -22,3 +22,7 @@ for jogador in sorted(jogadores):
     if t == k+1:
         t=1
 
+# ordena a lista dos jogadores do time de maneira alfabetica
+for t in times:
+    times[t].sort()
+
