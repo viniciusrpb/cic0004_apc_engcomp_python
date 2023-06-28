@@ -1,3 +1,5 @@
+# ATENCAO: Codigo-fonte incompleto!
+
 n,k = map(int,input().split())
 
 jogadores = {}
@@ -15,9 +17,9 @@ times = {}
 t = 1
 for jogador in sorted(jogadores):
     if t in times:
-        times[t].append(jogador)
+        times[t].append(jogadores[jogador])
     else:
-        times[t] = [jogador]
+        times[t] = [jogadores[jogador]]
     t+=1
     if t == k+1:
         t=1
