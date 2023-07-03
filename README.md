@@ -115,6 +115,13 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
    
     9.5. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
 
+10. Recursividade
+   
+   10.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
+   
+   10.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
+   
+   10.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 ## Simulados
 
@@ -135,13 +142,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
    
 
 
-5. Recursividade
-   
-   5.1. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
-   
-   5.2. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
-   
-   5.3. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
+
    
 9. Arquivos
 
