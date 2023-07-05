@@ -129,6 +129,11 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
    
     10.6. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
+11. Ordenação
+
+    11.1. [Bubble Sort com contagem de trocas](ordenacao/ordenacao.py)
+    
+
 ## Simulados
 
 - **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
