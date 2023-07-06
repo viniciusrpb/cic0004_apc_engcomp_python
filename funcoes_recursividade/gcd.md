@@ -29,7 +29,13 @@ gcd(a,b) = gcd(b,a)
 
 ## Ideia do Algoritmo
 
-Sejam dois números inteiros ```a``` e ```b```, em que ```a > b```. O máximo divisor comum (gcd) entre ```a``` e ```b``` ```gcd(a,b)``` é igual ao gcd entre ```a-b``` e ```b```?
+Sejam dois números inteiros ```a``` e ```b```, em que ```a > b```. De acordo com a seguinte propriedade da divisibilidade:
+
+```se k divide a e k divide b, então k divide (ap + bq)```
+
+em que ```p``` e ```q``` são números inteiros.
+
+Temos o ponto de partida para mostrar que todos os divisores de ```a``` e ```b``` também dividem ```a-b```. Logo, não estamos perdendo o maior divisor comum ao fazermos isso. Assim sendo, podemos calcular o máximo divisor comum (gcd) entre ```a``` e ```b``` (```gcd(a,b)```) como sendo igual ao gcd entre ```a-b``` e ```b```?
 
 Por exemplo, se ```a=84``` e ```b=16```, sabemos no exemplo acima que o ```gcd(84,16) = 4```. Como ficaria o GCD entre ```84-16=68``` e ```16```?
 
