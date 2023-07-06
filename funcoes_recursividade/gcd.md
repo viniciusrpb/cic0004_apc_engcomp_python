@@ -7,17 +7,24 @@ A ideia empregada para o cálculo do Máximo Divisor Comum (*Greatest Common Div
 O GCD entre dois números inteiros positivos é o maior divisor em comum entre eles. Por exemplo, se ```a=84``` e ```b=16```, podemos ver pela fatoração de cada número pelos seus fatores primos que:
 
 ```
-84 = ** 2 x 2 ** x 3 x 7
+84 = 2 x 2 x 3 x 7
 
-16 = ** 2 x 2 ** x 2 x 2
+16 = 2 x 2 x 2 x 2
 ```
 
 Podemos ver que existe uma sequência de ```2x2``` em comum na fatoração de 84 e 16. Logo o GCD entre 84 e 16 é 2 x 2 = 4.
 
-Por definição, temos que:
+Por definição, temos as seguintes propriedades para o gcd:
+
+- Divisibilidade:
 
 ```
 gcd(a,0) = a
+```
+- Comutatividade:
+
+```
+gcd(a,b) = gcd(b,a)
 ```
 
 ## Ideia do Algoritmo
@@ -56,9 +63,10 @@ em que ```y``` é a quantidade de vezes que podemos subtrair ```b``` de ```a``` 
 A pergunta que fica é: quantas vezes podemos subtrair ```b``` de ```a```, ou ainda, qual é o valor de  ```y```?
 
 Resposta:
-```y = a / b    (divisão inteira)```
 
-Logo, temos que:
+```y = a / b```
+
+em que ```/``` é a divisão inteira. Logo, temos que:
 
 ```
 y = 84/16 = 5
@@ -70,16 +78,44 @@ Isso significa que:
 gcd(84,16) = gcd(84-5*16,16) = gcd(4,16)
 ```
 
-Assim, fazemos todas as substrações de uma única só vez. Como nenhum divisor pode ser maior que o número que ele divide (com exceção do zero), temos que inverter
-
-
-
+Repare que fizemos todas as substrações de uma única só vez com a estrátegia explicada acima. A fórmula anterior pode ser reescrita de forma simplificada como:
 
 ```
-gcd(a,b) = gcd(a-b, b) se a>b
+gcd(a-y*b,b) = gcd(a % b, b) = gcd(84%16,16) = gcd(4,16)
 ```
 
-## Código-fonte
+em que % é a operação de resto de divisão. Entretanto, como a % b < b, visando garantir que ```a > b```,  quando ```a <= b``` podemos utilizar a propriedade vista anteriormente para continuar a repetição do processo:
+
+```
+gcd(a,b) = gcd(b,a)
+```
+
+assim, a relação completa que podemos elaborar é a seguinte:
+
+```
+gcd(a,b) = gcd(a-y*b,b) = gcd(a % b, b) = gcd(b,a % b)
+```
+
+Por exemplo:
+
+```
+gcd(84,16) = gcd(84-5*16,16) = gcd(4,16) = gcd(84 % 16, 16) = gcd(16, 84 % 16)
+```
+
+O processo completo de determinaro ```gcd(a,b) = gcd(b,a%b)``` precisa ter um fim. Chega um momento em que ```b=0```, então utilizamos a definição 
+
+```
+gcd(a,0) = a
+```
+
+Para parar a repetição das subtrações. Por fim, podemos formular a resolução do problema do máximo divisor comum como:
+
+```
+gcd(a,b) = a,  se b=0
+gcd(a,b) = gcd(b, a % b)
+```
+
+## Código-fonte (Python3)
 
 ```
 def gcd(a,b):
@@ -90,6 +126,5 @@ def gcd(a,b):
 print(gcd(84,16))
 ```
 
-## Referências
 
 
