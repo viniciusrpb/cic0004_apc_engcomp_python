@@ -132,7 +132,12 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 11. Ordenação
 
     11.1. [Bubble Sort com contagem de trocas](ordenacao/ordenacao.py)
-    
+
+12. Arquivos
+
+   12.1. [Arquivo 1](arquivos/diario-oficial.json)
+
+   12.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json)
 
 ## Simulados
 
@@ -155,11 +160,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 
 
    
-9. Arquivos
-
-   9.1. [Arquivo 1](arquivos/diario-oficial.json)
-
-   9.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json) -->
+ -->
    
    
 
