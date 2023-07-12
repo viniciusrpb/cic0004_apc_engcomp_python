@@ -135,9 +135,9 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 
 12. Arquivos
 
-   12.1. [Arquivo 1](arquivos/diario-oficial.json)
+    12.1. [Arquivo 1](arquivos/diario-oficial.json)
 
-   12.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json)
+    12.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json)
 
 ## Simulados
 
@@ -155,13 +155,5 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 - **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
 
 - **(08/02/2023)** [Simulado Prova 3](simulados/README.md)
-   
-
-
-
-   
+     
  -->
-   
-   
-
-
