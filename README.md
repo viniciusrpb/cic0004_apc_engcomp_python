@@ -143,6 +143,8 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 
 - **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
 
+- **(12/07/2023)** [Simulado Prova 2](simulados/README.md)
+
 ## Revisão para Provas
 
 ### Prova 1 (29/05/2023)
@@ -152,7 +154,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
    2. [Beecrowd 1478 - Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478) [[Solução](prova1/beecrowd_1478.py)]
  
 <!--
-- **(18/01/2023)** [Simulado Prova 2](simulados/README.md)
+- 
 
 - **(08/02/2023)** [Simulado Prova 3](simulados/README.md)
      
