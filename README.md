@@ -1,6 +1,6 @@
 # CIC0004 - Algoritmos e Programação de Computadores (APC)
 
-Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos e Programação de Computadores", Turma 01, semestre 2023/1 do Departamento de Ciência da Computação da Universidade de Brasília.
+Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos e Programação de Computadores", Turma 03, semestre 2023/2 do Departamento de Ciência da Computação da Universidade de Brasília.
 
 ## Autores
 
@@ -14,7 +14,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 26 de junho de 2023*
 
-
+<!--
 ## Conteúdo Programático
 
 1. A Jornada do Programa
@@ -151,7 +151,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
 
    1. [Beecrowd 2557 - R+L=J](https://www.beecrowd.com.br/judge/pt/problems/view/2557) [[Solução](prova1/beecrowd_2557.py)]
    
-   2. [Beecrowd 1478 - Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478) [[Solução](prova1/beecrowd_1478.py)]
+   2. [Beecrowd 1478 - Matriz Quadrada II](https://www.beecrowd.com.br/judge/pt/problems/view/1478) [[Solução](prova1/beecrowd_1478.py)]-->
  
 <!--
 - 
