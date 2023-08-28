@@ -10,14 +10,14 @@ Profa. Aline Barros
 
 ## Cronograma Previsto de Aulas
 
-Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar o cronograma previsto de aulas da Turma 01.
+Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v1.pdf) para acessar o cronograma previsto de aulas da Turma 03.
 
 &nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 25 de agosto de 2023*
 
-<!--
+
 ## Conteúdo Programático
 
-1. A Jornada do Programa
+1. Introdução aos Sistemas Computacionais
 
    1.1. [Introdução a Organização e Arquitetura de Computadores](jornada/intro_arquitetura_computadores.md)
    
@@ -26,7 +26,7 @@ Clique [aqui](cic0004_turma01_cronogramaPrevistoAulas_20231_v3.pdf) para acessar
    1.3. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
    
   
-
+<!--
 2. Variáveis, expressões e instruções
 
    2.1. [Exemplos de leitura/escrita de dados em Python](var_exp_inst/README.md)
