@@ -139,9 +139,7 @@ Como os computadores processam a informação em linguagem de máquina? Isso dep
 
 ## Compilação
 
-A **compilação** transforma o código-fonte escrito em uma linguagem de programação em alto nível em linguagem de máquina de uma única vez antes do programa ser executado.
-
-- O **compilador** apresenta todos os erros no código-fonte após o processo de compilação;
+A **compilação** transforma o código-fonte escrito em uma linguagem de programação em alto nível em linguagem de máquina de uma única vez antes do programa ser executado. Como resultado, o processo de compilação gera um arquivo executável (*exe* para Windows e *.bin* para o Linux, por exemplo) que deve ser executado apenas em sistemas computacionais com características similares. O **compilador** apresenta todos os erros no código-fonte após o processo de compilação. Caso sejam encontrados erros de sintaxe, o arquivo executável não é gerado. A execução do arquivo executável é realizada pela unidade central de processamento, por meio do Sistema Operacional.
 
 Exemplos de linguagens compiladas: C, C++, Pascal, Rust
 
@@ -153,7 +151,27 @@ O programa que interpreta um código-fonte e possibilita sua execução é o **i
 
 - O **interpretador** mostra os erros de cada linha, uma a uma, durante a execução do programa associado ao código-fonte/script passado como entrada.
 
-Exemplos de linguagens interpretadas: Python, R, Matlab, Javascript, Ruby, Perl, PHP
+Exemplos de linguagens interpretadas: Matlab, Javascript, Ruby, Perl, PHP
+
+## Híbridas
+
+A abordagem híbrida compreende o processo de tradução que emprega tanto aspectos de compilação e interpretação para a geração do código em linguagem de máquina a partir do código-fonte. Nesses casos, existe um compilador que verifica erros de sintaxe no código-fonte e, consequentemente, gera um código em linguagem intermediária (*bytecode*). Esse programa em *bytecode* é então executado por meio de uma máquina virtual. Exemplos de linguagens híbridas: Java e Python.
+
+Na linguagem Java, o compilador **javac** gera a representação *bytecode*, que fica salva como arquivos *.class* em disco, que são então executados pela Java Virtual Machine (JVM). A Java Virtual Machine está implementada no software OpenJDK. Por exemplo, seja um código-fonte em linguagem Java denominado *Fonte.java*. Para rodar esse programa, deve-se então digitar os dois comandos a seguir no terminal do Linux:
+
+```
+$ javac Fonte.java 
+```
+
+que irá gerar o arquivo *bytecode* *Fonte.class*.
+
+```
+$ java Fonte
+```
+
+faz com que o *bytecode* seja executado pela JVM.
+
+No caso do Python, o processo é similar, apesar de parecer "misterioso". Primeiramente, o **python3** compila o código-fonte que está no arquivo em formato *.py*, resultando na geração de uma representação em *bytecode*. Observe que no caso do Python não ocorre a criação de um arquivo associado ao *bytecode*. Em seguida, a máquina virtual Python3 (Python Virtual Machine) executa o programa a partir da representação *bytecode* seguindo o processo de interpretação. Assim, do ponto de vista do programador, como apenas uma etapa é realizada (o programador apenas efetua o comando ```python3``` para rodar o programa associado a um código-fonte), a linguagem Python é muitas vezes confundida como sendo interpretada.
 
 ## Comparativo Interpretação vs Compilação
 
