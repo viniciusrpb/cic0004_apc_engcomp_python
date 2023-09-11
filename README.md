@@ -26,7 +26,6 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v1.pdf) para acessar o cr
    1.3. [Sistemas Numéricos](jornada/cic0004_01_sistemasnumericos.pdf)
    
   
-<!--
 2. Variáveis, expressões e instruções
 
    2.1. [Exemplos de leitura/escrita de dados em Python](var_exp_inst/README.md)
@@ -41,7 +40,7 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v1.pdf) para acessar o cr
    
    2.6. [Beecrowd 3346 - Flutuação do PIB](https://www.beecrowd.com.br/judge/pt/problems/view/3346) [[Solução](var_exp_inst/beecrowd_3346.py)]
 
-
+-->
 
 3. Funções
 
