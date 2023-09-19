@@ -13,7 +13,7 @@ Seja o pib_atual o PIB de um determinado ano e ans a variável de resposta:
 pib_1ano = f1*pib_atual + pib_atual
 pib_2anos = f2*pib_1ano + pib_1ano
 
-pib_2anos = ans*pib_1ano + pib_1ano
+pib_2anos = ans*pib_atual + pib_atual
 pib_2anos - pib_atual = ans*pib_atual
 f2*pib_1ano + pib_1ano - pib_atual = ans*pib_atual
 f2*(f1*pib_atual + pib_atual) + f1*pib_atual + pib_atual - pib_atual = ans*pib_atual
