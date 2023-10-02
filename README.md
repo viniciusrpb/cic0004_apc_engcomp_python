@@ -43,13 +43,15 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
 
 3. Estruturas Condicionais
 
-   3.1. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
+   3.1. [Highlights de Estruturas Condicionais](condicionais/highlights.ipynb)
 
-   3.2. [Beecrowd 2455 - Gangorra](https://www.beecrowd.com.br/judge/en/problems/view/2455) [[Solução](condicionais/beecrowd_2455.py)]
+   3.2. [Beecrowd 2375 - Sedex](https://www.beecrowd.com.br/judge/en/problems/view/2375) [[Solução com AND](condicionais/beecrowd_2375_and.py)] [[Solução com OR](condicionais/beecrowd_2375_or.py)]
 
-   3.3. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
+   3.3. [Beecrowd 2455 - Gangorra](https://www.beecrowd.com.br/judge/en/problems/view/2455) [[Solução](condicionais/beecrowd_2455.py)]
 
-   3.4. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
+   3.4. [Beecrowd 1041 - Coordinates of a Point](https://www.beecrowd.com.br/judge/en/problems/view/1041) [[Solução](condicionais/beecrowd_1041.py)]
+
+   3.5. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
 
 
 <!--
