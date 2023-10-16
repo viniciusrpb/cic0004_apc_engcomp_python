@@ -27,8 +27,8 @@ ans = f1 + f2 + f1*f2
 
 f1,f2 = map(float,input().split())
 
-f1/=100
-f2/=100
+f1=f1/100
+f2=f2/100
 
 ans = f2*f1 + f2 + f1
 ans=ans*100
