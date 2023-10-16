@@ -13,7 +13,10 @@ Linha de comando para executar: python3 beecrowd_2375_and.py
 
 diametro = int(input())
 
-altura,largura,profundidade = (int(x) for x in input().split())
+altura,largura,profundidade = input().split()
+altura = int(altura)
+largura = int(largura)
+profundidade = int(profundidade)
 
 if diametro <= altura and diametro <= largura and diametro <= profundidade:
     print('S')
