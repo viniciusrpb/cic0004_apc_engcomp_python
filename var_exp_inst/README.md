@@ -26,13 +26,13 @@ word2 = input()
 ### Leitura de duas palavras da entrada separadas por espaço em branco, na mesma linha 
 
 ```
-word1,word2 = (for x in input().split())
+word1,word2 = input().split()
 ```
 
 ### Leitura de duas palavras da entrada separadas por vírgula, na mesma linha 
 
 ```
-word1,word2 = (for x in input().split(','))
+word1,word2 = input().split(',')
 ```
 
 ### Leitura de um número inteiro em uma linha
@@ -68,15 +68,9 @@ value = int(input("Digite um numero inteiro: "))
 Estratégia 1
 
 ```
-a,b = (x for x in input().split())
+a,b = input().split()
 a = int(a)
 b = int(b)
-```
-
-de maneira simplificada:
-
-```
-a,b = (int(x) for x in input().split())
 ```
 
 Estratégia 2
@@ -85,12 +79,21 @@ Estratégia 2
 a,b = map(int, input().split())
 ```
 
+que funciona de maneira parecida com:
+
+```
+a,b = (int(x) for x in input().split())
+```
+
 ### Leitura de três números inteiros separados por espaço em branco, na mesma linha
 
 Estratégia 1
 
 ```
-a,b,c = (int(x) for x in input().split())
+a,b,c = input().split()
+a = int(a)
+b = int(b)
+c = int(c)
 ```
 
 Estratégia 2
@@ -99,28 +102,33 @@ Estratégia 2
 a,b,c = map(int, input().split())
 ```
 
-### Leitura de dois números inteiros e uma palavra (nessa ordem) separados por espaço em branco, na mesma linha
-
+de maneira similar...
 
 ```
-a,b,word = (x for x in input().split())
+a,b,c = (int(x) for x in input().split())
+```
+
+### Leitura de dois números inteiros e uma palavra (nessa ordem) separados por espaço em branco, na mesma linha
+
+```
+a,b,word = input().split()
 a = int(a)
 b = int(b)
 ```
 
-Observe que apenas ```a``` e ```b``` são convertidos para inteiros, já que word é naturalmente uma string
+Observe que apenas ```a``` e ```b``` são convertidos para inteiros, já que ```word``` é naturalmente uma string
 
 
 ### Leitura de um número real, um número inteiro e uma palavra (nessa ordem) separados por espaço em branco, na mesma linha
 
 
 ```
-real,inteiro,word = (x for x in input().split())
+real,inteiro,word = input().split()
 real = float(real)
 inteiro = int(inteiro)
 ```
 
-Observe que apenas ```a``` e ```b``` são convertidos para inteiros, já que word é naturalmente uma string
+Observe que apenas ```real``` e ```inteiro``` são convertidos para real e inteiro, respectivamente. Da mesma maneira, ```word``` é naturalmente uma string
 
 
 ## Escrita
