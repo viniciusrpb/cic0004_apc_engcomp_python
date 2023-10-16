@@ -9,24 +9,25 @@ Objetivo: Solução do problema beecrowd 1048 - Aumento de Salário
 Linha de comando para executar: python3 beecrowd_1048.py
 '''
 
-def solve(salario_atual,perc):
-    
-    novo_salario = salario_atual + salario_atual*(perc/100)
-    reajuste = novo_salario - salario_atual
-    
-    print(f'Novo salario: {novo_salario:.2f}')
-    print(f'Reajuste ganho: {reajuste:.2f}')
-    print(f'Em percentual: {perc} %')
-    
 salario = float(input())
 
 if salario > 2000.00:
-    solve(salario,4)
+    reajuste = 4
 elif salario > 1200.00:
-    solve(salario,7)
+    reajuste = 7
 elif salario > 800.00:
-    solve(salario,10)
+    reajuste = 10
 elif salario > 400.00:
-    solve(salario,12)
+    reajuste = 12
 else:
-    solve(salario,15)
+    reajuste = 15
+
+reajuste2 = reajuste/100
+reajuste_ganho = reajuste2*salario
+novo_salario = salario + reajuste_ganho
+
+print(f'Novo salario: {novo_salario:.2f}')
+print(f'Reajuste ganho: {reajuste_ganho:.2f}')
+print(f'Em percentual: {reajuste} %')
+
+
