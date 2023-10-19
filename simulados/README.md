@@ -1,5 +1,16 @@
 # Simulados
 
+## Simulado Prova 1 (18/10/2023)
+
+1.1. [Beecrowd 2424 - Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424) [[Solução](beecrowd_2424.py)]
+   
+1.2. [Beecrowd 2679 - Sucessor Par](https://www.beecrowd.com.br/judge/pt/problems/view/2679) [[Solução](beecrowd_2679.py)]
+
+1.3. [Beecrowd 2428 - Capital](https://www.beecrowd.com.br/judge/pt/problems/view/2428) [[Solução](beecrowd_2428.py)]
+
+1.4. [Beecrowd 2441 - Janela](https://www.beecrowd.com.br/judge/pt/problems/view/2441) [[Solução](beecrowd_2441.py)]
+
+<!--
 ## Simulado Prova 1
 
 1.1. [Beecrowd 3049 - Nota Cortada](https://www.beecrowd.com.br/judge/pt/problems/view/3049) [[Solução](beecrowd_3049.py)]
@@ -24,8 +35,6 @@
 2.4. [Beecrowd 1516 - Imagem](https://www.beecrowd.com.br/judge/pt/problems/view/1516) [[Solução](beecrowd_1516.py)]
 
 2.5. [Beecrowd 1709 - Baralho Embaralhado](https://www.beecrowd.com.br/judge/pt/problems/view/1709) [[Solução](beecrowd_1709.py)]
-
-<!--
 
 2.2. [Beecrowd 1827 - Matriz Quadrada IV](https://www.beecrowd.com.br/judge/pt/problems/view/1827) [[Solução](beecrowd_1827.py)]
 
