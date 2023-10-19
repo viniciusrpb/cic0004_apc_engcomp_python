@@ -55,14 +55,19 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
 
    3.6. [Beecrowd 1048 - Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) [[Solução](condicionais/beecrowd_1048.py)]
 
+4. Funções
+
+   4.1. [Highlights de Funções](funcoes/README.md)
+   
+   4.2. [Funções Matemáticas no Python](funcoes/funcoes_matematicas_python.ipynb)
+
+## Simulados
+
+- **(18/10/2023)** [Simulado Prova 1](simulados/README.md)
 
 <!--
 
-3. Funções
 
-   3.1. [Highlights de Funções](funcoes/README.md)
-   
-   3.2. [Funções Matemáticas no Python](funcoes/funcoes_matematicas_python.ipynb)
    
    3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) [[Solução](funcoes/beecrowd_1021.py)]
    
@@ -145,9 +150,7 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
 
     12.2. [Arquivo 2](arquivos/DODF%20228%2008-12-2021.json)
 
-## Simulados
 
-- **(31/05/2023)** [Simulado Prova 1](simulados/README.md)
 
 - **(12/07/2023)** [Simulado Prova 2](simulados/README.md)
 
