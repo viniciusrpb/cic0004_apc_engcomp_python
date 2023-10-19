@@ -33,13 +33,13 @@ area = 0
 # deve-se calcular a "sobra" (espaco vazio) do ponto 0 até o 400
 # logo, desconta-se a sobreposicao da "area" total das janelas 1 e 2 (400, no)
 if sobreposicao_f1f2 <= 200:
-    area += (200-sobreposicao_f1f2)
+    area = area + (200-sobreposicao_f1f2)
 
 # analogamente, se existir sobreposicao entre folhas 2 e 3,
 # deve-se calcular a "sobra" (espaco vazio) do ponto 200 até o 600
 
 if sobreposicao_f2f3 <= 200:
-    area += (200-sobreposicao_f2f3)
+    area = area + (200-sobreposicao_f2f3)
 
 # calcula a area em cm
 ans = 100*(area)
