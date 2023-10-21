@@ -65,6 +65,10 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
 
 - **(18/10/2023)** [Simulado Prova 1](simulados/README.md)
 
+## Provas
+
+- **(20/10/2023)** [Prova 1](provas/README.md)
+
 <!--
 
 
