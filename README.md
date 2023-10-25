@@ -61,6 +61,17 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
    
    4.2. [Funções Matemáticas no Python](funcoes/funcoes_matematicas_python.ipynb)
 
+5. Recursividade
+
+    5.1. [Contagem](recursividade/contagem.py)
+    
+    5.2. [Máximo Divisor Comum (Greatest Common Divisor - GCD)](funcoes_recursividade/gcd.md)
+
+    5.3. [Exponenciação Rápida](funcoes_recursividade/fastexp.md)
+   
+    5.4. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
+   
+
 ## Simulados
 
 - **(18/10/2023)** [Simulado Prova 1](simulados/README.md)
@@ -91,6 +102,8 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
    5.5. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
    
    5.6. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
+
+   5.7. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 6. Strings
  
@@ -130,19 +143,7 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v2.pdf) para acessar o cr
    
     9.5. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
 
-10. Recursividade
 
-    10.1. [Soma de Elementos de uma Lista](recursividade/soma_lista.py)
-    
-    10.2. [Máximo Divisor Comum (Greatest Common Divisor - GCD)](funcoes_recursividade/gcd.md)
-
-    10.3. [Exponenciação Rápida](funcoes_recursividade/fastexp.md)
-   
-    10.4. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
-   
-    10.5. [Beecrowd 2161 - Square Root of 10](https://www.beecrowd.com.br/judge/pt/problems/view/2161) [[Solução](funcoes_recursividade/beecrowd_2161.py)]
-   
-    10.6. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 11. Ordenação
 
