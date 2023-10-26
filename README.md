@@ -63,13 +63,17 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v3.pdf) para acessar o cr
 
 5. Recursividade
 
-    5.1. [Contagem](recursividade/contagem.py)
-    
-    5.2. [Máximo Divisor Comum (Greatest Common Divisor - GCD)](funcoes_recursividade/gcd.md)
-
-    5.3. [Exponenciação Rápida](funcoes_recursividade/fastexp.md)
+    5.1. [Highlights de Recursividade](recursividade/README.md)
    
-    5.4. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
+    5.2. [Contagem Decrescente](recursividade/contagem.py)
+
+    5.3. [Contagem Decrescente](recursividade/contagem.py)
+    
+    5.4. [Máximo Divisor Comum (Greatest Common Divisor - GCD)](funcoes_recursividade/gcd.md)
+
+    5.5. [Exponenciação Rápida](funcoes_recursividade/fastexp.md)
+   
+    5.6. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
    
 
 ## Simulados
