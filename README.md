@@ -63,11 +63,11 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v3.pdf) para acessar o cr
 
 5. Recursividade
 
-    5.1. [Highlights de Recursividade](recursividade/README.md)
+    5.1. [Highlights de Recursividade](funcoes_recursividade/README.md)
    
-    5.2. [Contagem Decrescente](recursividade/contagem.py)
+    5.2. [Contagem Decrescente](funcoes_recursividade/contagem.py)
 
-    5.3. [Contagem Decrescente](recursividade/contagem.py)
+    5.3. [Contagem Decrescente](funcoes_recursividade/contagem2.py)
     
     5.4. [Máximo Divisor Comum (Greatest Common Divisor - GCD)](funcoes_recursividade/gcd.md)
 
