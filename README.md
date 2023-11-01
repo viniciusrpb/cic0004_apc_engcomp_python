@@ -10,9 +10,9 @@ Profa. Aline Barros
 
 ## Cronograma Previsto de Aulas
 
-Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v3.pdf) para acessar o cronograma previsto de aulas da Turma 03.
+Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cronograma previsto de aulas da Turma 03.
 
-&nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 04 de outubro de 2023*
+&nbsp;&nbsp;&nbsp;&nbsp; *Última atualização: 01 de novembro de 2023*
 
 
 ## Conteúdo Programático
