@@ -83,13 +83,15 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
    
    6.3. [Beecrowd 1247 - Coast Guard](https://www.beecrowd.com.br/judge/en/problems/view/1247) [[Solução](iteracao/beecrowd_1247.py)]
 
-   6.4. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
-
-   6.5. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
+   6.4. [Beecrowd 1573 - Chocolate Factory](https://www.beecrowd.com.br/judge/en/problems/view/1573) [[Solução](iteracao/beecrowd_1573.py)]
    
-   6.6. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
+   6.5. [Beecrowd 2297 - Bafo](https://www.beecrowd.com.br/judge/en/problems/view/2297) [[Solução](iteracao/beecrowd_2297.py)]
 
-   6.7. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
+   6.6. [Beecrowd 3058 - Supermercado](https://www.beecrowd.com.br/judge/en/problems/view/3058) [[Solução](iteracao/beecrowd_3058.py)]
+
+   6.7. [Beecrowd 2238 - Divisores](https://www.beecrowd.com.br/judge/en/problems/view/2238) [[Solução](iteracao/beecrowd_2238.py)]
+
+   6.8. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 
 ## Simulados
@@ -119,6 +121,8 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
 7. Listas Homogêneas
 
    7.1. [Notas de aula](listas/cap08_listas.ipynb)
+
+   6.4. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
  
    7.2. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
    
