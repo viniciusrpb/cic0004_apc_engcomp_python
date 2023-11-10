@@ -132,5 +132,10 @@ def gcd(a,b):
 print(gcd(84,16))
 ```
 
+## Extra: Mìnimo Múltiplo Comum (Least Common Multiple - LCM)
 
+```
+def lcm(a,b):
+    return (a*b)//gcd(a,b)
+```
 
