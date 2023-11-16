@@ -10,6 +10,29 @@
 
 1.4. [Beecrowd 2441 - Janela](https://www.beecrowd.com.br/judge/pt/problems/view/2441) [[Solução](beecrowd_2441.py)]
 
+## Simulado Prova 2
+
+2.1. [Beecrowd 2443 - Soma de Frações](https://www.beecrowd.com.br/judge/pt/problems/view/2443) [[Solução](beecrowd_2443_2.py)]
+
+2.2. [Beecrowd 1103 - Alarme Despertador](https://www.beecrowd.com.br/judge/pt/problems/view/1103) [[Solução](beecrowd_1103.py)]
+
+2.3. [Beecrowd 3068 - Meteoros](https://www.beecrowd.com.br/judge/pt/problems/view/3068) [[Solução](beecrowd_3068.py)]
+
+2.4. [Beecrowd 2968 - Hora da Corrida](https://www.beecrowd.com.br/judge/pt/problems/view/2968) [[Solução](beecrowd_2968.py)]
+
+2.5. [Beecrowd 2238 - Divisores](https://www.beecrowd.com.br/judge/pt/problems/view/2238) [[Solução](beecrowd_2238.py)]
+
+## Simulado Prova 2 (Reboot)
+
+2.1. [Beecrowd 3048 - Sequência Secreta](https://www.beecrowd.com.br/judge/pt/problems/view/3048) [[Solução](beecrowd_3048.py)]
+
+2.2. [Beecrowd 3050 - Distância Entre Amigos](https://www.beecrowd.com.br/judge/pt/problems/view/3050) [[Solução](beecrowd_3050.py)]
+
+2.3. [Beecrowd 2770 - Tamanho da Placa](https://www.beecrowd.com.br/judge/pt/problems/view/2770) [[Solução (TLE - Problema no Beecrowd)](beecrowd_2770.py)] [[Solução em C](beecrowd_2770.c)]
+
+2.4. [Beecrowd 2823 - Eearliest Deadline First](https://www.beecrowd.com.br/judge/pt/problems/view/2823) [[Solução](beecrowd_2823.py)]
+
+
 <!--
 ## Simulado Prova 1
 
