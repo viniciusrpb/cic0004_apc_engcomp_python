@@ -12,10 +12,10 @@
 
 ## Prova 2 (17/11/2023)
 
-1.1. [Beecrowd 2373 - Garçom](https://www.beecrowd.com.br/judge/pt/problems/view/2373) [[Solução](beecrowd_2373.py)]
+2.1. [Beecrowd 2373 - Garçom](https://www.beecrowd.com.br/judge/pt/problems/view/2373) [[Solução](beecrowd_2373.py)]
    
-1.2. [Beecrowd 2286 - Par ou Ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/2286) [[Solução](beecrowd_2286.py)]
+2.2. [Beecrowd 2286 - Par ou Ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/2286) [[Solução](beecrowd_2286.py)]
 
-1.3. [Beecrowd 1630 - Estacas](https://www.beecrowd.com.br/judge/pt/problems/view/1630) [[Solução](beecrowd_1630.py)]
+2.3. [Beecrowd 1630 - Estacas](https://www.beecrowd.com.br/judge/pt/problems/view/1630) [[Solução](beecrowd_1630.py)]
 
-1.4. [Beecrowd 1554 - Bilhar](https://www.beecrowd.com.br/judge/pt/problems/view/1554) [[Solução](beecrowd_1554.py)]
+2.4. [Beecrowd 1554 - Bilhar](https://www.beecrowd.com.br/judge/pt/problems/view/1554) [[Solução](beecrowd_1554.py)]
