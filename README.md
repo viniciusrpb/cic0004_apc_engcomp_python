@@ -75,9 +75,9 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
    
     5.6. [Beecrowd 2166 - Square Root of 2](https://www.beecrowd.com.br/judge/en/problems/view/2166) [[Solução](funcoes_recursividade/beecrowd_2166.py)]
 
-6. Iteração
+6. Estruturas de Repetição
 
-   6.1. [Notas de aula](iteracao/notas_aula_iteracao.ipynb)
+   6.1. [Highlights de Estruturas de Repetição](iteracao/notas_aula_iteracao.ipynb)
 
    6.2. [Beecrowd 1585 - Making Kites](https://www.beecrowd.com.br/judge/en/problems/view/1585) [[Solução](iteracao/beecrowd_1585.py)]
    
