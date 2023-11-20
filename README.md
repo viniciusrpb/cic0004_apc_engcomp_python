@@ -94,10 +94,12 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
    6.8. [Beecrowd 1441 - Hailstone Sequences](https://www.beecrowd.com.br/judge/en/problems/view/1441) [[Solução](funcoes_recursividade/beecrowd_1441.py)]
 
 7. Strings
+
+   7.1. [Highlights de Strings](iteracao/notas_aula_strings.ipynb)
  
-   7.1. [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](strings/beecrowd_2866.py)]
+   7.2. [Beecrowd 2866 - Cryptotext](https://www.beecrowd.com.br/judge/en/problems/view/2866) [[Solução](strings/beecrowd_2866.py)]
    
-   7.2. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)] [[Solução](strings/beecrowd_1253_2.py)]
+   7.3. [Beecrowd 1253 - Caesar Cipher](https://www.beecrowd.com.br/judge/en/problems/view/1253) [[Solução](strings/beecrowd_1253.py)] [[Solução](strings/beecrowd_1253_2.py)]
 
 ## Simulados
 
