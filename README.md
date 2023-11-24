@@ -105,6 +105,28 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
 
    7.5. [Beecrowd 1607 - Avance as Letras](https://www.beecrowd.com.br/judge/en/problems/view/1607) [[Solução](strings/beecrowd_1607.py)]
 
+8. Listas Homogêneas
+
+   8.1. [Highlights de Listas](listas/cap08_listas.ipynb)
+
+   8.2. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
+ 
+   8.3. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
+   
+   8.4. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)] *dá para fazer sem listas*
+   
+   8.5. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
+   
+   8.6. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
+
+9. Listas Heterogêneas
+
+   9.1. [Beecrowd 1181 - Line in Array](https://www.beecrowd.com.br/judge/en/problems/view/1181) [[Solução](listas/beecrowd_1181.py)]
+
+   9.2. [Beecrowd 2552 - CheeseBreadSweeper](https://www.beecrowd.com.br/judge/en/problems/view/2552) [[Solução](listas/beecrowd_2552.py)]
+
+   9.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
+
 ## Simulados
 
 - **(18/10/2023)** [Simulado Prova 1](simulados/README.md)
@@ -131,27 +153,7 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
 
 
 
-7. Listas Homogêneas
 
-   7.1. [Notas de aula](listas/cap08_listas.ipynb)
-
-   6.4. [Beecrowd 2328 - Chocolate](https://www.beecrowd.com.br/judge/en/problems/view/2328) [[Solução](iteracao/beecrowd_2328.py)]
- 
-   7.2. [Beecrowd 2807 - Iccanobif](https://www.beecrowd.com.br/judge/en/problems/view/2807) [[Solução](listas/beecrowd_2807.py)]
-   
-   7.3. [Beecrowd 2345 - Assigning Teams](https://www.beecrowd.com.br/judge/en/problems/view/2345) [[Solução](listas/beecrowd_2345.py)] *dá para fazer sem listas*
-   
-   7.4. [Beecrowd 1259 - Even or Odd](https://www.beecrowd.com.br/judge/en/problems/view/1259) [[Solução](listas/beecrowd_1259.py)]
-   
-   7.5. [Beecrowd 1375 - Pole Position](https://www.beecrowd.com.br/judge/en/problems/view/1375) [[Solução](listas/beecrowd_1375.py)]
-
-8. Listas Heterogêneas
-
-   8.1. [Beecrowd 1181 - Line in Array](https://www.beecrowd.com.br/judge/en/problems/view/1181) [[Solução](listas/beecrowd_1181.py)]
-
-   8.2. [Beecrowd 2552 - CheeseBreadSweeper](https://www.beecrowd.com.br/judge/en/problems/view/2552) [[Solução](listas/beecrowd_2552.py)]
-
-   8.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
 
 9. Dicionários e Listas
 
