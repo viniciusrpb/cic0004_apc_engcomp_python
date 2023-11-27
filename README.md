@@ -141,19 +141,11 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
   
 - **(17/11/2023)** [Prova 2](provas/README.md)
 
+## Projeto
+
+- [Casos de Teste](projeto/README.md)
+
 <!--
-
-
-   
-   3.3. [Beecrowd 1021 - Banknotes and Coins](https://www.beecrowd.com.br/judge/en/problems/view/1021) [[Solução](funcoes/beecrowd_1021.py)]
-   
-  
-
-
-
-
-
-
 
 9. Dicionários e Listas
 
