@@ -47,3 +47,23 @@ MAIUSCULA
 PONTUACAO
 53
 ```
+
+### Input 8:
+
+```
+D1ss3:       que .  estava tudo, ce"rto.
+```
+
+### Output 8:
+
+```
+NAO
+ESPACO EM BRANCO
+7 8 9 10 11 12 19
+INFORMAL
+1 4
+MINUSCULA
+20
+PONTUACAO
+17 35
+```
