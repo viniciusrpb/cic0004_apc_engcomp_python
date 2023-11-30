@@ -1,21 +1,19 @@
 ### Input 5:
 
 ```
-Isso foi 4visado:  tah feio. ver3m0s CoMo proceder.
+Isso foi "4visado"  tah f310. ver3m0s CoMo proceder.
 ```
 
 ### Output 5:
 
 ```
 NAO
-ESPACO EM BRANCO
-18
 INFORMAL
-9 32 34
+25 26 27 33 35
 MAIUSCULA
-37 39
+38 40
 MINUSCULA
-29
+30
 ```
 
 ### Input 6:
@@ -33,7 +31,7 @@ SIM
 ### Input 7:
 
 ```
-123 pitch: "nao vale 234 gmfg Mjf". Agora el3 disse: " dig4 m3 com que Andas que direi quem es.
+123 pitch "nao vale 234 gmfg Mjf" . Agora el3 disse, " dig4 m3 com que Andas que direi quem es.
 ```
 
 ### Output 7:
@@ -43,27 +41,39 @@ NAO
 INFORMAL
 44 58 61
 MAIUSCULA
-36 71
+71
 PONTUACAO
-53
+34 53
 ```
 
 ### Input 8:
 
 ```
-D1ss3:       que .  estava tudo, ce"rto.
+Portanto, vai ser "uma longa jornada" ou ainda "um pouco tenebroso". Suponha que "nao exista situacao perfeita", logo, pode ser que sim.
 ```
 
 ### Output 8:
 
 ```
+SIM
+```
+
+### Input 9:
+
+```
+Nos temos um trato, "um por todos, todos por um" . situacao complicada, m3U c4r0.
+```
+
+### Output 9:
+
+```
 NAO
-ESPACO EM BRANCO
-7 8 9 10 11 12 19
 INFORMAL
-1 4
+73 77 79
+MAIUSCULA
+74
 MINUSCULA
-20
+51
 PONTUACAO
-17 35
+49
 ```
