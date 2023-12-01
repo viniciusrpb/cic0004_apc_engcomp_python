@@ -77,3 +77,19 @@ MINUSCULA
 PONTUACAO
 49
 ```
+
+### Input 9:
+
+```
+Valeu "  "  ".
+```
+
+### Output 9:
+
+```
+NAO
+PONTUACAO
+12
+```
+
+
