@@ -78,13 +78,13 @@ PONTUACAO
 49
 ```
 
-### Input 9:
+### Input 10:
 
 ```
 Valeu "  "  ".
 ```
 
-### Output 9:
+### Output 10:
 
 ```
 NAO
