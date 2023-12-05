@@ -127,9 +127,9 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
 
    9.3. [Beecrowd 1383 - Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383) [[Solução](listas/beecrowd_1383.py)]
 
-10. Dicionários e Listas
+10. Dicionários e Tuplas
 
-    10.1. [Notas de aula](dicionarios/cap9_dicionarios.ipynb)
+    10.1. [Highlights de Dicionários](dicionarios/cap9_dicionarios.ipynb)
    
     10.2. [Beecrowd 1168 - LED](https://www.beecrowd.com.br/judge/en/problems/view/1168) [[Solução](dicionarios/beecrowd_1168.py)]
 
