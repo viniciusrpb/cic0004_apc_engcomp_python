@@ -10,21 +10,28 @@ for i in range(n):
     jogadores[habilidade] = nome
 
 times = {}
+for i in range(1,k+1):
+    times[i] = []
 
-#jogadores eh um dicionario ordenado
-# de maneira decrescente de acordo com
-# as habilidades dos jogadores
-t = 1
-for jogador in sorted(jogadores):
-    if t in times:
-        times[t].append(jogadores[jogador])
-    else:
-        times[t] = [jogadores[jogador]]
-    t+=1
-    if t == k+1:
-        t=1
+#jogadores eh uma lista contendo apenas as chaves ordenadas decrescente
+habilidades_ordenadas = sorted(jogadores)
 
-# ordena a lista dos jogadores do time de maneira alfabetica
-for t in times:
-    times[t].sort()
+id_time = 1
+# pega cada habilidade em ordem decrescente
+for habilidade in habilidades_ordenadas:
+    #pega o nome do jogador associado a habilidade
+    nome = jogadores[habilidade]
 
+    #coloca o nome do jogador na chave id_time do dicionario de times
+    times[id_time].append(nome)
+    id_time+=1
+    if id_time == k+1:
+        id_time = 1
+
+for time in times:
+    print(f'Time {time}')
+    # ordena a lista dos jogadores do "time" de maneira alfabetica no dicionario
+    times[time].sort()
+    for nome_jogador in times[time]:
+        print(nome_jogador)
+    print()
