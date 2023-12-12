@@ -8,6 +8,8 @@ Isso foi "4visado"  tah f310. ver3m0s CoMo proceder.
 
 ```
 NAO
+ESPACO EM BRANCO
+19
 INFORMAL
 25 26 27 33 35
 MAIUSCULA
@@ -88,6 +90,8 @@ Valeu "  "  ".
 
 ```
 NAO
+ESPACO EM BRANCO
+11
 PONTUACAO
 12
 ```
