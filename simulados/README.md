@@ -33,6 +33,17 @@
 2.4. [Beecrowd 2823 - Eearliest Deadline First](https://www.beecrowd.com.br/judge/pt/problems/view/2823) [[Solução](beecrowd_2823.py)]
 
 
+## Simulado Prova 3
+
+2.1. [Beecrowd 1911 - Ajude Girafales](https://www.beecrowd.com.br/judge/pt/problems/view/1911) [[Solução](beecrowd_1911.py)]
+
+2.2. [Beecrowd 2242 - Huaauhahhuahau](https://www.beecrowd.com.br/judge/pt/problems/view/2242) [[Solução](beecrowd_2242.py)]
+
+2.3. [Beecrowd 2293 - Campo de Minhocass](https://www.beecrowd.com.br/judge/pt/problems/view/2293) [[Solução](beecrowd_2293.py)]
+
+2.4. [Beecrowd 2399 - Campo Minado](https://www.beecrowd.com.br/judge/pt/problems/view/2399) [[Solução](beecrowd_2399.py)]
+
+
 <!--
 ## Simulado Prova 1
 
