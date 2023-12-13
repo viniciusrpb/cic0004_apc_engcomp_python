@@ -39,7 +39,7 @@
 
 2.2. [Beecrowd 2242 - Huaauhahhuahau](https://www.beecrowd.com.br/judge/pt/problems/view/2242) [[Solução](beecrowd_2242.py)]
 
-2.3. [Beecrowd 2293 - Campo de Minhocass](https://www.beecrowd.com.br/judge/pt/problems/view/2293) [[Solução](beecrowd_2293.py)]
+2.3. [Beecrowd 2293 - Campo de Minhocas](https://www.beecrowd.com.br/judge/pt/problems/view/2293) [[Solução](beecrowd_2293.py)]
 
 2.4. [Beecrowd 2399 - Campo Minado](https://www.beecrowd.com.br/judge/pt/problems/view/2399) [[Solução](beecrowd_2399.py)]
 
