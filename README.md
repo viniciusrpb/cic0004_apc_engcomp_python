@@ -147,6 +147,8 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
  
 - **(14-16/10/2023)** [Simulado Prova 2 (Reboot)](simulados/README.md)
 
+- **(13/12/2023)** [Simulado Prova 3](simulados/README.md)
+
 ## Provas
 
 - **(20/10/2023)** [Prova 1](provas/README.md)
