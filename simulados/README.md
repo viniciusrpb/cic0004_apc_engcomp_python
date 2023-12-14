@@ -1,14 +1,26 @@
 # Simulados
 
-## Simulado Prova 1 (18/10/2023)
+## Simulado Prova 3
 
-1.1. [Beecrowd 2424 - Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424) [[Solução](beecrowd_2424.py)]
-   
-1.2. [Beecrowd 2679 - Sucessor Par](https://www.beecrowd.com.br/judge/pt/problems/view/2679) [[Solução](beecrowd_2679.py)]
+2.1. [Beecrowd 1911 - Ajude Girafales](https://www.beecrowd.com.br/judge/pt/problems/view/1911) [[Solução](beecrowd_1911.py)]
 
-1.3. [Beecrowd 2428 - Capital](https://www.beecrowd.com.br/judge/pt/problems/view/2428) [[Solução](beecrowd_2428.py)]
+2.2. [Beecrowd 2242 - Huaauhahhuahau](https://www.beecrowd.com.br/judge/pt/problems/view/2242) [[Solução](beecrowd_2242.py)]
 
-1.4. [Beecrowd 2441 - Janela](https://www.beecrowd.com.br/judge/pt/problems/view/2441) [[Solução](beecrowd_2441.py)]
+2.3. [Beecrowd 2293 - Campo de Minhocas](https://www.beecrowd.com.br/judge/pt/problems/view/2293) [[Solução](beecrowd_2293.py)]
+
+2.4. [Beecrowd 2399 - Campo Minado](https://www.beecrowd.com.br/judge/pt/problems/view/2399) [[Solução](beecrowd_2399.py)]
+
+2.4. [Beecrowd 2312 - Quadro de Medalhas](https://www.beecrowd.com.br/judge/pt/problems/view/2312) [[Solução com Listas](beecrowd_2312_2.py)]
+
+## Simulado Prova 2 (Reboot)
+
+2.1. [Beecrowd 3048 - Sequência Secreta](https://www.beecrowd.com.br/judge/pt/problems/view/3048) [[Solução](beecrowd_3048.py)]
+
+2.2. [Beecrowd 3050 - Distância Entre Amigos](https://www.beecrowd.com.br/judge/pt/problems/view/3050) [[Solução](beecrowd_3050.py)]
+
+2.3. [Beecrowd 2770 - Tamanho da Placa](https://www.beecrowd.com.br/judge/pt/problems/view/2770) [[Solução (TLE - Problema no Beecrowd)](beecrowd_2770.py)] [[Solução em C](beecrowd_2770.c)]
+
+2.4. [Beecrowd 2823 - Eearliest Deadline First](https://www.beecrowd.com.br/judge/pt/problems/view/2823) [[Solução](beecrowd_2823.py)]
 
 ## Simulado Prova 2
 
@@ -22,28 +34,16 @@
 
 2.5. [Beecrowd 2238 - Divisores](https://www.beecrowd.com.br/judge/pt/problems/view/2238) [[Solução](beecrowd_2238.py)]
 
-## Simulado Prova 2 (Reboot)
+## Simulado Prova 1 (18/10/2023)
 
-2.1. [Beecrowd 3048 - Sequência Secreta](https://www.beecrowd.com.br/judge/pt/problems/view/3048) [[Solução](beecrowd_3048.py)]
+1.1. [Beecrowd 2424 - Tira-teima](https://www.beecrowd.com.br/judge/pt/problems/view/2424) [[Solução](beecrowd_2424.py)]
+   
+1.2. [Beecrowd 2679 - Sucessor Par](https://www.beecrowd.com.br/judge/pt/problems/view/2679) [[Solução](beecrowd_2679.py)]
 
-2.2. [Beecrowd 3050 - Distância Entre Amigos](https://www.beecrowd.com.br/judge/pt/problems/view/3050) [[Solução](beecrowd_3050.py)]
+1.3. [Beecrowd 2428 - Capital](https://www.beecrowd.com.br/judge/pt/problems/view/2428) [[Solução](beecrowd_2428.py)]
 
-2.3. [Beecrowd 2770 - Tamanho da Placa](https://www.beecrowd.com.br/judge/pt/problems/view/2770) [[Solução (TLE - Problema no Beecrowd)](beecrowd_2770.py)] [[Solução em C](beecrowd_2770.c)]
+1.4. [Beecrowd 2441 - Janela](https://www.beecrowd.com.br/judge/pt/problems/view/2441) [[Solução](beecrowd_2441.py)]
 
-2.4. [Beecrowd 2823 - Eearliest Deadline First](https://www.beecrowd.com.br/judge/pt/problems/view/2823) [[Solução](beecrowd_2823.py)]
-
-
-## Simulado Prova 3
-
-2.1. [Beecrowd 1911 - Ajude Girafales](https://www.beecrowd.com.br/judge/pt/problems/view/1911) [[Solução](beecrowd_1911.py)]
-
-2.2. [Beecrowd 2242 - Huaauhahhuahau](https://www.beecrowd.com.br/judge/pt/problems/view/2242) [[Solução](beecrowd_2242.py)]
-
-2.3. [Beecrowd 2293 - Campo de Minhocas](https://www.beecrowd.com.br/judge/pt/problems/view/2293) [[Solução](beecrowd_2293.py)]
-
-2.4. [Beecrowd 2399 - Campo Minado](https://www.beecrowd.com.br/judge/pt/problems/view/2399) [[Solução](beecrowd_2399.py)]
-
-2.4. [Beecrowd 2312 - Quadro de Medalhas](https://www.beecrowd.com.br/judge/pt/problems/view/2312) [[Solução com Listas](beecrowd_2312_2.py)]
 
 <!--
 ## Simulado Prova 1
