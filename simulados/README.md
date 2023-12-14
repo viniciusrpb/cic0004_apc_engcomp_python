@@ -10,7 +10,7 @@
 
 2.4. [Beecrowd 2399 - Campo Minado](https://www.beecrowd.com.br/judge/pt/problems/view/2399) [[Solução](beecrowd_2399.py)]
 
-2.4. [Beecrowd 2312 - Quadro de Medalhas](https://www.beecrowd.com.br/judge/pt/problems/view/2312) [[Solução com Listas](beecrowd_2312_2.py)]
+2.4. [Beecrowd 2312 - Quadro de Medalhas](https://www.beecrowd.com.br/judge/pt/problems/view/2312) [[Solução com Listas](beecrowd_2312_2.py)] [[Solução com Dicionários](beecrowd_2312.py)]
 
 ## Simulado Prova 2 (Reboot)
 
