@@ -36,6 +36,6 @@
    
 2.2. [Beecrowd 2867 - Dígitos](https://www.beecrowd.com.br/judge/pt/problems/view/2867) [[Solução](beecrowd_2867.py)]
 
-2.3. [Beecrowd 2633 - Churras no Yuri](https://www.beecrowd.com.br/judge/pt/problems/view/2633) [[Solução](beecrowd_2633.py)]
+2.3. [Beecrowd 2633 - Churras no Yuri](https://www.beecrowd.com.br/judge/pt/problems/view/2633) [[Solução](../simulados/beecrowd_2633.py)]
 
 2.4. [Beecrowd 1901 - Borboletas](https://www.beecrowd.com.br/judge/pt/problems/view/1901) [[Solução](beecrowd_1901.py)]
