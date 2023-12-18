@@ -20,7 +20,7 @@
 
 2.4. [Beecrowd 1554 - Bilhar](https://www.beecrowd.com.br/judge/pt/problems/view/1554) [[Solução](beecrowd_1554.py)]
 
-## Prova 2 (17/11/2023)
+## Prova 3 (15/12/2023)
 
 2.1. [Beecrowd 2791 - Feijões](https://www.beecrowd.com.br/judge/pt/problems/view/2791) [[Solução](beecrowd_2791.py)]
    
