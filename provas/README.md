@@ -24,7 +24,7 @@
 
 2.1. [Beecrowd 2791 - Feijões](https://www.beecrowd.com.br/judge/pt/problems/view/2791) [[Solução](beecrowd_2791.py)]
    
-2.2. [Beecrowd 2286 - Contando Carneirinhos](https://www.beecrowd.com.br/judge/pt/problems/view/2286) [[Solução](beecrowd_2286.py)]
+2.2. [Beecrowd 1609 - Contando Carneirinhos](https://www.beecrowd.com.br/judge/pt/problems/view/1609) [[Solução](beecrowd_1609.py)]
 
 2.3. [Beecrowd 2108 - Contando Caracteres](https://www.beecrowd.com.br/judge/pt/problems/view/2108) [[Solução](beecrowd_2108.py)]
 
