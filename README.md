@@ -159,6 +159,8 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
  
 - **(18/12/2023)** [Prova de Reposição](provas/README.md)
 
+- **(20/12/2023)** [Prova Substitutiva](provas/README.md)
+
 ## Projeto
 
 - [Casos de Teste](projeto/README.md)
