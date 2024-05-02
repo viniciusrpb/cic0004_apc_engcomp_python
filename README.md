@@ -6,8 +6,6 @@ Códigos-fontes e material didático gerados na disciplina "CIC0004 - Algoritmos
 
 Prof. Vinícius R. P. Borges
 
-<!--
-
 ## Cronograma Previsto de Aulas
 
 Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cronograma previsto de aulas da Turma 03.
@@ -208,4 +206,4 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
 
 - **(08/02/2023)** [Simulado Prova 3](simulados/README.md)
      
- -->-->
+ -->
