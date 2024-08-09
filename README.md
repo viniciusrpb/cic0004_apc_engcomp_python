@@ -136,7 +136,9 @@ Clique [aqui](cic0004_03_cronogramaPrevistoAulas_20232_v4.pdf) para acessar o cr
     10.4. [Beecrowd 2370 - Times](https://www.beecrowd.com.br/judge/en/problems/view/2370) [[Solução](dicionarios/beecrowd_2370.py)]
    
     10.5. [Notebook Python: Funções Lambda e Ordenação de Dicionários](dicionarios/apc_lambda_dicionarios.ipynb)
-   
+
+
+<!--
 ## Simulados
 
 - **(18/10/2023)** [Simulado Prova 1](simulados/README.md)
